@@ -48,7 +48,7 @@ PyScan scans the following language features, for the explanations and definitio
 |       MetaProgramming       |           Reflection           |
 |       MetaProgramming       |           Metaclass            |
 
-##Usage
+## Usage
 
 First you need to install all packages Pyscan need:
 
@@ -91,6 +91,6 @@ The Pysonar2 runtime file is like this:
 target/pysonar-<version>.jar
 ```
 
-##License
+## License
 
 PyScan is liscensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
