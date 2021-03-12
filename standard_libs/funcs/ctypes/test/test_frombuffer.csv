@@ -1,0 +1,8 @@
+class,func
+Test,test_from_buffer
+Test,test_fortran_contiguous
+Test,test_from_buffer_with_offset
+Test,test_from_buffer_memoryview
+Test,test_from_buffer_copy
+Test,test_from_buffer_copy_with_offset
+Test,test_abstract

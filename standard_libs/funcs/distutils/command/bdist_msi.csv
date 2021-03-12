@@ -1,0 +1,14 @@
+class,func
+PyDialog,title
+PyDialog,back
+PyDialog,cancel
+PyDialog,next
+PyDialog,xbutton
+bdist_msi,initialize_options
+bdist_msi,finalize_options
+bdist_msi,run
+bdist_msi,add_files
+bdist_msi,add_find_python
+bdist_msi,add_scripts
+bdist_msi,add_ui
+bdist_msi,get_installer_filename

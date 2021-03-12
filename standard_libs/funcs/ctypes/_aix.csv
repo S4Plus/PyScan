@@ -1,0 +1,12 @@
+class,func
+None,get_ld_header
+None,get_ld_header_info
+None,get_ld_headers
+None,get_shared
+None,get_one_match
+None,get_legacy
+None,get_version
+None,get_member
+None,get_libpaths
+None,find_shared
+None,find_library

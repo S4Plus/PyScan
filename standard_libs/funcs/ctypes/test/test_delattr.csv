@@ -1,0 +1,4 @@
+class,func
+TestCase,test_simple
+TestCase,test_chararray
+TestCase,test_struct

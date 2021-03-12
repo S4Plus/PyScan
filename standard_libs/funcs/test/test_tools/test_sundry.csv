@@ -1,0 +1,4 @@
+class,func
+TestSundryScripts,test_sundry
+TestSundryScripts,test_sundry_windows
+TestSundryScripts,test_analyze_dxp_import

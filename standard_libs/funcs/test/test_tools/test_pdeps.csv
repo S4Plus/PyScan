@@ -1,0 +1,4 @@
+class,func
+PdepsTests,setUpClass
+PdepsTests,test_process_errors
+PdepsTests,test_inverse_attribute_error

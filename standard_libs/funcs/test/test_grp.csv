@@ -1,0 +1,6 @@
+class,func
+GroupDatabaseTestCase,check_value
+GroupDatabaseTestCase,test_values
+GroupDatabaseTestCase,test_values_extended
+GroupDatabaseTestCase,test_errors
+GroupDatabaseTestCase,test_noninteger_gid

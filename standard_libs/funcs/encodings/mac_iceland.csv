@@ -1,0 +1,6 @@
+class,func
+None,getregentry
+Codec,encode
+Codec,decode
+IncrementalEncoder,encode
+IncrementalDecoder,decode

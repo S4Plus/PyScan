@@ -1,0 +1,10 @@
+class,func
+TestAsdlParser,setUpClass
+TestAsdlParser,tearDownClass
+TestAsdlParser,setUp
+TestAsdlParser,test_module
+TestAsdlParser,test_definitions
+TestAsdlParser,test_product
+TestAsdlParser,test_attributes
+TestAsdlParser,test_constructor_fields
+TestAsdlParser,test_visitor

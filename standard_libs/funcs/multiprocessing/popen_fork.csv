@@ -1,0 +1,7 @@
+class,func
+Popen,duplicate_for_child
+Popen,poll
+Popen,wait
+Popen,terminate
+Popen,kill
+Popen,close

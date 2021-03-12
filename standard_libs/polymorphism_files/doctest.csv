@@ -1,0 +1,6 @@
+class,func
+DocTestRunner,report_start
+DocTestRunner,report_success
+DocTestRunner,report_failure
+DocTestRunner,report_unexpected_exception
+DocTestRunner,run

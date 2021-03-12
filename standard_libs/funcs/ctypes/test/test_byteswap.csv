@@ -1,0 +1,15 @@
+class,func
+None,bin
+Test,test_X
+Test,test_slots
+Test,test_endian_short
+Test,test_endian_int
+Test,test_endian_longlong
+Test,test_endian_float
+Test,test_endian_double
+Test,test_endian_other
+Test,test_struct_fields_1
+Test,test_struct_struct
+Test,test_struct_fields_2
+Test,test_unaligned_nonnative_struct_fields
+Test,test_unaligned_native_struct_fields

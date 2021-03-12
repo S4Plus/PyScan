@@ -1,0 +1,14 @@
+class,func
+None,decode_header
+None,make_header
+Header,append
+Header,encode
+_ValueFormatter,newline
+_ValueFormatter,add_transition
+_ValueFormatter,feed
+_Accumulator,push
+_Accumulator,pop_from
+_Accumulator,pop
+_Accumulator,reset
+_Accumulator,is_onlyws
+_Accumulator,part_count

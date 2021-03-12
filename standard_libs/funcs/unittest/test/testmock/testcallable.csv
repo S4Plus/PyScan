@@ -1,0 +1,13 @@
+class,func
+TestCallable,assertNotCallable
+TestCallable,test_non_callable
+TestCallable,test_hierarchy
+TestCallable,test_attributes
+TestCallable,test_subclasses
+TestCallable,test_patch_spec
+TestCallable,test_patch_spec_set
+TestCallable,test_patch_spec_instance
+TestCallable,test_patch_spec_set_instance
+TestCallable,test_patch_spec_callable_class
+TestCallable,test_create_autospec
+TestCallable,test_create_autospec_instance

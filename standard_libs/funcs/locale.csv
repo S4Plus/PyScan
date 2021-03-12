@@ -1,0 +1,15 @@
+class,func
+None,localeconv
+None,setlocale
+None,format_string
+None,format
+None,currency
+None,str
+None,delocalize
+None,atof
+None,atoi
+None,normalize
+None,getdefaultlocale
+None,getlocale
+None,resetlocale
+None,getpreferredencoding

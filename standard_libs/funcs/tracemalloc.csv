@@ -1,0 +1,16 @@
+class,func
+None,get_object_traceback
+None,take_snapshot
+Frame,filename
+Frame,lineno
+Traceback,format
+Trace,domain
+Trace,size
+Trace,traceback
+Filter,filename_pattern
+DomainFilter,domain
+Snapshot,dump
+Snapshot,load
+Snapshot,filter_traces
+Snapshot,statistics
+Snapshot,compare_to

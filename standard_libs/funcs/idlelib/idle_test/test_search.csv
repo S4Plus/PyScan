@@ -1,0 +1,6 @@
+class,func
+SearchDialogTest,setUpClass
+SearchDialogTest,tearDownClass
+SearchDialogTest,setUp
+SearchDialogTest,test_find_again
+SearchDialogTest,test_find_selection

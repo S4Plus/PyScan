@@ -1,0 +1,12 @@
+class,func
+GetoptTests,setUp
+GetoptTests,tearDown
+GetoptTests,assertError
+GetoptTests,test_short_has_arg
+GetoptTests,test_long_has_args
+GetoptTests,test_do_shorts
+GetoptTests,test_do_longs
+GetoptTests,test_getopt
+GetoptTests,test_gnu_getopt
+GetoptTests,test_libref_examples
+GetoptTests,test_issue4629

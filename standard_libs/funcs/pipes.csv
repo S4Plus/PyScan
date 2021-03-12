@@ -1,0 +1,12 @@
+class,func
+None,makepipeline
+Template,reset
+Template,clone
+Template,debug
+Template,append
+Template,prepend
+Template,open
+Template,open_r
+Template,open_w
+Template,copy
+Template,makepipeline

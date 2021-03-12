@@ -1,0 +1,9 @@
+class,func
+SubprocessStreamProtocol,connection_made
+SubprocessStreamProtocol,pipe_data_received
+SubprocessStreamProtocol,pipe_connection_lost
+SubprocessStreamProtocol,process_exited
+Process,returncode
+Process,send_signal
+Process,terminate
+Process,kill

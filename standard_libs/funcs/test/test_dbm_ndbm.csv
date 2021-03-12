@@ -1,0 +1,12 @@
+class,func
+DbmTestCase,setUp
+DbmTestCase,tearDown
+DbmTestCase,test_keys
+DbmTestCase,test_empty_value
+DbmTestCase,test_modes
+DbmTestCase,test_context_manager
+DbmTestCase,test_bytes
+DbmTestCase,test_unicode
+DbmTestCase,test_write_readonly_file
+DbmTestCase,test_nonascii_filename
+DbmTestCase,test_nonexisting_file

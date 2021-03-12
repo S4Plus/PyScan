@@ -1,0 +1,12 @@
+class,func
+Parser,set_code
+Parser,find_good_parse_start
+Parser,set_lo
+Parser,get_continuation_type
+Parser,compute_bracket_indent
+Parser,get_num_lines_in_stmt
+Parser,compute_backslash_indent
+Parser,get_base_indent_string
+Parser,is_block_opener
+Parser,is_block_closer
+Parser,get_last_stmt_bracketing

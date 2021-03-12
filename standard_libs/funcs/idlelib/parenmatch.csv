@@ -1,0 +1,14 @@
+class,func
+ParenMatch,reload
+ParenMatch,activate_restore
+ParenMatch,deactivate_restore
+ParenMatch,flash_paren_event
+ParenMatch,paren_closed_event
+ParenMatch,finish_paren_event
+ParenMatch,restore_event
+ParenMatch,handle_restore_timer
+ParenMatch,create_tag_opener
+ParenMatch,create_tag_parens
+ParenMatch,create_tag_expression
+ParenMatch,set_timeout_none
+ParenMatch,set_timeout_last

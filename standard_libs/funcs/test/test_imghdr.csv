@@ -1,0 +1,16 @@
+class,func
+UnseekableIO,tell
+UnseekableIO,seek
+TestImghdr,setUpClass
+TestImghdr,tearDown
+TestImghdr,test_data
+TestImghdr,test_pathlike_filename
+TestImghdr,test_register_test
+TestImghdr,test_file_pos
+TestImghdr,test_bad_args
+TestImghdr,test_invalid_headers
+TestImghdr,test_string_data
+TestImghdr,test_missing_file
+TestImghdr,test_closed_file
+TestImghdr,test_unseekable
+TestImghdr,test_output_stream

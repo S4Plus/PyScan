@@ -1,0 +1,6 @@
+class,func
+None,py_scanstring
+None,JSONObject
+None,JSONArray
+JSONDecoder,decode
+JSONDecoder,raw_decode

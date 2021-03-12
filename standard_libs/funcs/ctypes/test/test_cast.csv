@@ -1,0 +1,8 @@
+class,func
+Test,test_array2pointer
+Test,test_address2pointer
+Test,test_p2a_objects
+Test,test_other
+Test,test_char_p
+Test,test_wchar_p
+Test,test_bad_type_arg

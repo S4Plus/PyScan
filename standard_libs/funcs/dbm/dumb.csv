@@ -1,0 +1,6 @@
+class,func
+None,open
+_Database,keys
+_Database,items
+_Database,iterkeys
+_Database,close

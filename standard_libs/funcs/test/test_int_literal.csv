@@ -1,0 +1,7 @@
+class,func
+TestHexOctBin,test_hex_baseline
+TestHexOctBin,test_hex_unsigned
+TestHexOctBin,test_oct_baseline
+TestHexOctBin,test_oct_unsigned
+TestHexOctBin,test_bin_baseline
+TestHexOctBin,test_bin_unsigned

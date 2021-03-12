@@ -1,0 +1,11 @@
+class,func
+Complex,real
+Complex,imag
+Complex,conjugate
+Real,real
+Real,imag
+Real,conjugate
+Rational,numerator
+Rational,denominator
+Integral,numerator
+Integral,denominator

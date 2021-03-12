@@ -1,0 +1,10 @@
+class,func
+UserListTest,test_getslice
+UserListTest,test_slice_type
+UserListTest,test_add_specials
+UserListTest,test_radd_specials
+UserListTest,test_iadd
+UserListTest,test_mixedcmp
+UserListTest,test_mixedadd
+UserListTest,test_getitemoverwriteiter
+UserListTest,test_userlist_copy

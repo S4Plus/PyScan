@@ -1,0 +1,4 @@
+class,func
+None,setup_tests
+None,suppress_msvcrt_asserts
+None,replace_stdout

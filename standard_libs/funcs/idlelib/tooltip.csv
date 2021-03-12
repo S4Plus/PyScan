@@ -1,0 +1,10 @@
+class,func
+TooltipBase,showtip
+TooltipBase,position_window
+TooltipBase,get_position
+TooltipBase,showcontents
+TooltipBase,hidetip
+OnHoverTooltipBase,schedule
+OnHoverTooltipBase,unschedule
+OnHoverTooltipBase,hidetip
+Hovertip,showcontents

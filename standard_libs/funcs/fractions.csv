@@ -1,0 +1,8 @@
+class,func
+None,gcd
+Fraction,from_float
+Fraction,from_decimal
+Fraction,as_integer_ratio
+Fraction,limit_denominator
+Fraction,numerator
+Fraction,denominator

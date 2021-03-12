@@ -1,0 +1,16 @@
+class,func
+Var,set
+Var,get
+Text,index
+Text,insert
+Text,get
+Text,delete
+Text,compare
+Text,mark_set
+Text,mark_unset
+Text,tag_remove
+Text,scan_dragto
+Text,scan_mark
+Text,see
+Text,bind
+Entry,focus_set

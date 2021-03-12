@@ -1,0 +1,12 @@
+class,func
+None,wrap_future
+Future,get_loop
+Future,cancel
+Future,cancelled
+Future,done
+Future,result
+Future,exception
+Future,add_done_callback
+Future,remove_done_callback
+Future,set_result
+Future,set_exception

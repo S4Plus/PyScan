@@ -1,0 +1,6 @@
+class,func
+install_data,initialize_options
+install_data,finalize_options
+install_data,run
+install_data,get_inputs
+install_data,get_outputs

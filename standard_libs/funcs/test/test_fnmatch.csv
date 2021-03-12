@@ -1,0 +1,14 @@
+class,func
+FnmatchTestCase,check_match
+FnmatchTestCase,test_fnmatch
+FnmatchTestCase,test_mix_bytes_str
+FnmatchTestCase,test_fnmatchcase
+FnmatchTestCase,test_bytes
+FnmatchTestCase,test_case
+FnmatchTestCase,test_sep
+FnmatchTestCase,test_warnings
+TranslateTestCase,test_translate
+FilterTestCase,test_filter
+FilterTestCase,test_mix_bytes_str
+FilterTestCase,test_case
+FilterTestCase,test_sep

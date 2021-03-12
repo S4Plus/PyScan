@@ -1,0 +1,8 @@
+class,func
+BytesTest,test_c_char
+BytesTest,test_c_wchar
+BytesTest,test_c_char_p
+BytesTest,test_c_wchar_p
+BytesTest,test_struct
+BytesTest,test_struct_W
+BytesTest,test_BSTR

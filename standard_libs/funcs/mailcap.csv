@@ -1,0 +1,13 @@
+class,func
+None,lineno_sort_key
+None,getcaps
+None,listmailcapfiles
+None,readmailcapfile
+None,parseline
+None,parsefield
+None,findmatch
+None,lookup
+None,subst
+None,findparam
+None,test
+None,show

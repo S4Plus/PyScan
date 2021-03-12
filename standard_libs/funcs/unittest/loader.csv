@@ -1,0 +1,10 @@
+class,func
+None,getTestCaseNames
+None,makeSuite
+None,findTestCases
+TestLoader,loadTestsFromTestCase
+TestLoader,loadTestsFromModule
+TestLoader,loadTestsFromName
+TestLoader,loadTestsFromNames
+TestLoader,getTestCaseNames
+TestLoader,discover

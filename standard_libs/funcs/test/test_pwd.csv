@@ -1,0 +1,4 @@
+class,func
+PwdTest,test_values
+PwdTest,test_values_extended
+PwdTest,test_errors

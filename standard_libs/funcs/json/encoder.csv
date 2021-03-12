@@ -1,0 +1,6 @@
+class,func
+None,py_encode_basestring
+None,py_encode_basestring_ascii
+JSONEncoder,default
+JSONEncoder,encode
+JSONEncoder,iterencode

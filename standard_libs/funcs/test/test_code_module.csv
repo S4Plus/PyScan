@@ -1,0 +1,12 @@
+class,func
+TestInteractiveConsole,setUp
+TestInteractiveConsole,mock_sys
+TestInteractiveConsole,test_ps1
+TestInteractiveConsole,test_ps2
+TestInteractiveConsole,test_console_stderr
+TestInteractiveConsole,test_syntax_error
+TestInteractiveConsole,test_sysexcepthook
+TestInteractiveConsole,test_banner
+TestInteractiveConsole,test_exit_msg
+TestInteractiveConsole,test_cause_tb
+TestInteractiveConsole,test_context_tb

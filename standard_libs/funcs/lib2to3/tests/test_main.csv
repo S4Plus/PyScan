@@ -1,0 +1,9 @@
+class,func
+TestMain,setUp
+TestMain,tearDown
+TestMain,run_2to3_capture
+TestMain,test_unencodable_diff
+TestMain,setup_test_source_trees
+TestMain,test_filename_changing_on_output_single_dir
+TestMain,test_filename_changing_on_output_two_files
+TestMain,test_filename_changing_on_output_single_file

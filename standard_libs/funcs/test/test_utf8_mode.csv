@@ -1,0 +1,15 @@
+class,func
+UTF8ModeTests,posix_locale
+UTF8ModeTests,get_output
+UTF8ModeTests,test_posix_locale
+UTF8ModeTests,test_xoption
+UTF8ModeTests,test_env_var
+UTF8ModeTests,test_filesystemencoding
+UTF8ModeTests,test_stdio
+UTF8ModeTests,test_io
+UTF8ModeTests,check_io_encoding
+UTF8ModeTests,test_io_encoding
+UTF8ModeTests,test_pyio_encoding
+UTF8ModeTests,test_locale_getpreferredencoding
+UTF8ModeTests,test_cmd_line
+UTF8ModeTests,test_optim_level

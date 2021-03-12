@@ -1,0 +1,14 @@
+class,func
+None,testformat
+None,testcommon
+None,test_exc
+None,test_exc_common
+FormatTest,test_common_format
+FormatTest,test_str_format
+FormatTest,test_bytes_and_bytearray_format
+FormatTest,test_nul
+FormatTest,test_non_ascii
+FormatTest,test_locale
+FormatTest,test_optimisations
+FormatTest,test_precision
+FormatTest,test_precision_c_limits

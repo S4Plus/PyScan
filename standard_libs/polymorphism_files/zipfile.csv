@@ -1,0 +1,4 @@
+class,func
+ZipFile,getinfo
+ZipFile,open
+ZipFile,write

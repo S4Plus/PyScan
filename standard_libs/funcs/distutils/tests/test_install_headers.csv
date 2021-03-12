@@ -1,0 +1,3 @@
+class,func
+None,test_suite
+InstallHeadersTestCase,test_simple_run

@@ -1,0 +1,6 @@
+class,func
+None,test_suite
+msvccompilerTestCase,test_no_compiler
+msvccompilerTestCase,test_get_vc_env_unicode
+msvccompilerTestCase,test_get_vc2017
+msvccompilerTestCase,test_get_vc2015

@@ -1,0 +1,15 @@
+class,func
+None,errprint
+None,main
+None,check
+None,format_witnesses
+None,process_tokens
+NannyNag,get_lineno
+NannyNag,get_msg
+NannyNag,get_line
+Whitespace,longest_run_of_spaces
+Whitespace,indent_level
+Whitespace,equal
+Whitespace,not_equal_witness
+Whitespace,less
+Whitespace,not_less_witness

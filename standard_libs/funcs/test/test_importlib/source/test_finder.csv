@@ -1,0 +1,15 @@
+class,func
+FinderTests,get_finder
+FinderTests,import_
+FinderTests,run_test
+FinderTests,test_module
+FinderTests,test_package
+FinderTests,test_module_in_package
+FinderTests,test_package_in_package
+FinderTests,test_package_over_module
+FinderTests,test_failure
+FinderTests,test_empty_string_for_dir
+FinderTests,test_invalidate_caches
+FinderTests,test_dir_removal_handling
+FinderTests,test_no_read_directory
+FinderTests,test_ignore_file

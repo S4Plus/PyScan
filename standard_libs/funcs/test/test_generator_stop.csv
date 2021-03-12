@@ -1,0 +1,3 @@
+class,func
+TestPEP479,test_stopiteration_wrapping
+TestPEP479,test_stopiteration_wrapping_context

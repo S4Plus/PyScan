@@ -1,0 +1,12 @@
+class,func
+None,pprint
+None,pformat
+None,pp
+None,saferepr
+None,isreadable
+None,isrecursive
+PrettyPrinter,pprint
+PrettyPrinter,pformat
+PrettyPrinter,isrecursive
+PrettyPrinter,isreadable
+PrettyPrinter,format

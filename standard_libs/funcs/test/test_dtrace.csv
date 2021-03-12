@@ -1,0 +1,15 @@
+class,func
+None,abspath
+None,normalize_trace_output
+None,test_main
+TraceBackend,run_case
+TraceBackend,generate_trace_command
+TraceBackend,trace
+TraceBackend,trace_python
+TraceBackend,assert_usable
+TraceTests,setUpClass
+TraceTests,run_case
+TraceTests,test_function_entry_return
+TraceTests,test_verify_call_opcodes
+TraceTests,test_gc
+TraceTests,test_line

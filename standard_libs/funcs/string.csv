@@ -1,0 +1,12 @@
+class,func
+None,capwords
+Template,substitute
+Template,safe_substitute
+Formatter,format
+Formatter,vformat
+Formatter,get_value
+Formatter,check_unused_args
+Formatter,format_field
+Formatter,convert_field
+Formatter,parse
+Formatter,get_field

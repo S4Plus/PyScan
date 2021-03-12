@@ -1,0 +1,17 @@
+class,func
+None,tearDownModule
+FakeCoro,send
+FakeCoro,throw
+FakeCoro,close
+BaseTest,setUp
+LockTests,test_context_manager_async_with
+LockTests,test_context_manager_with_await
+StreamReaderTests,test_readline
+CoroutineTests,test_iscoroutine
+CoroutineTests,test_iscoroutinefunction
+CoroutineTests,test_function_returning_awaitable
+CoroutineTests,test_async_def_coroutines
+CoroutineTests,test_debug_mode_manages_coroutine_origin_tracking
+CoroutineTests,test_types_coroutine
+CoroutineTests,test_task_print_stack
+CoroutineTests,test_double_await

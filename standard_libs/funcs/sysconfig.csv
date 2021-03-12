@@ -1,0 +1,13 @@
+class,func
+None,is_python_build
+None,get_makefile_filename
+None,parse_config_h
+None,get_config_h_filename
+None,get_scheme_names
+None,get_path_names
+None,get_paths
+None,get_path
+None,get_config_vars
+None,get_config_var
+None,get_platform
+None,get_python_version

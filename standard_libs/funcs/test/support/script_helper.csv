@@ -1,0 +1,12 @@
+class,func
+None,interpreter_requires_environment
+None,run_python_until_end
+None,assert_python_ok
+None,assert_python_failure
+None,spawn_python
+None,kill_python
+None,make_script
+None,make_zip_script
+None,make_pkg
+None,make_zip_pkg
+_PythonRunResult,fail

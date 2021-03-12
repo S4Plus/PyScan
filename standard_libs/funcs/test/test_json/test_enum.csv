@@ -1,0 +1,7 @@
+class,func
+TestEnum,test_floats
+TestEnum,test_weird_floats
+TestEnum,test_ints
+TestEnum,test_list
+TestEnum,test_dict_keys
+TestEnum,test_dict_values

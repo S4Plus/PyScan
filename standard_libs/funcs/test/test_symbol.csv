@@ -1,0 +1,3 @@
+class,func
+TestSymbolGeneration,compare_files
+TestSymbolGeneration,test_real_grammar_and_symbol_file

@@ -1,0 +1,14 @@
+class,func
+None,clear_cache
+None,cmp
+None,cmpfiles
+None,demo
+dircmp,phase0
+dircmp,phase1
+dircmp,phase2
+dircmp,phase3
+dircmp,phase4
+dircmp,phase4_closure
+dircmp,report
+dircmp,report_partial_closure
+dircmp,report_full_closure

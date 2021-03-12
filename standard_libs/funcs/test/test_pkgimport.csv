@@ -1,0 +1,6 @@
+class,func
+TestImport,remove_modules
+TestImport,setUp
+TestImport,tearDown
+TestImport,rewrite_file
+TestImport,test_package_import__semantics

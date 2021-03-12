@@ -1,0 +1,15 @@
+class,func
+None,new_class
+None,resolve_bases
+None,prepare_class
+None,coroutine
+DynamicClassAttribute,getter
+DynamicClassAttribute,setter
+DynamicClassAttribute,deleter
+_GeneratorWrapper,send
+_GeneratorWrapper,throw
+_GeneratorWrapper,close
+_GeneratorWrapper,gi_code
+_GeneratorWrapper,gi_frame
+_GeneratorWrapper,gi_running
+_GeneratorWrapper,gi_yieldfrom

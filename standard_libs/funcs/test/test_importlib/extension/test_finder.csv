@@ -1,0 +1,4 @@
+class,func
+FinderTests,find_module
+FinderTests,test_module
+FinderTests,test_failure

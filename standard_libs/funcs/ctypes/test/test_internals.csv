@@ -1,0 +1,8 @@
+class,func
+ObjectsTestCase,assertSame
+ObjectsTestCase,test_ints
+ObjectsTestCase,test_c_char_p
+ObjectsTestCase,test_simple_struct
+ObjectsTestCase,test_embedded_structs
+ObjectsTestCase,test_xxx
+ObjectsTestCase,test_ptr_struct

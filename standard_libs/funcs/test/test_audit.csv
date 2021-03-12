@@ -1,0 +1,16 @@
+class,func
+AuditTest,do_test
+AuditTest,run_python
+AuditTest,test_basic
+AuditTest,test_block_add_hook
+AuditTest,test_block_add_hook_baseexception
+AuditTest,test_finalize_hooks
+AuditTest,test_pickle
+AuditTest,test_monkeypatch
+AuditTest,test_open
+AuditTest,test_cantrace
+AuditTest,test_mmap
+AuditTest,test_excepthook
+AuditTest,test_unraisablehook
+AuditTest,test_winreg
+AuditTest,test_socket

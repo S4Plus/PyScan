@@ -1,0 +1,9 @@
+class,func
+AutoExpandTest,setUpClass
+AutoExpandTest,tearDownClass
+AutoExpandTest,tearDown
+AutoExpandTest,test_get_prevword
+AutoExpandTest,test_before_only
+AutoExpandTest,test_after_only
+AutoExpandTest,test_both_before_after
+AutoExpandTest,test_other_expand_cases

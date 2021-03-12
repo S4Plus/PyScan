@@ -1,0 +1,9 @@
+class,func
+ParserBase,error
+ParserBase,reset
+ParserBase,getpos
+ParserBase,updatepos
+ParserBase,parse_declaration
+ParserBase,parse_marked_section
+ParserBase,parse_comment
+ParserBase,unknown_decl

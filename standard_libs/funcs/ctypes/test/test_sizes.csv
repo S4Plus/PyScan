@@ -1,0 +1,7 @@
+class,func
+SizesTestCase,test_8
+SizesTestCase,test_16
+SizesTestCase,test_32
+SizesTestCase,test_64
+SizesTestCase,test_size_t
+SizesTestCase,test_ssize_t

@@ -1,0 +1,6 @@
+class,func
+MultiCallTest,setUpClass
+MultiCallTest,tearDownClass
+MultiCallTest,test_creator
+MultiCallTest,test_init
+MultiCallTest,test_yview

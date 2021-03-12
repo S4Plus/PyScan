@@ -1,0 +1,10 @@
+class,func
+None,setUpModule
+LoaderTest,test_load
+LoaderTest,test_load_version
+LoaderTest,test_find
+LoaderTest,test_load_library
+LoaderTest,test_load_ordinal_functions
+LoaderTest,test_1703286_A
+LoaderTest,test_1703286_B
+LoaderTest,test_load_dll_with_flags

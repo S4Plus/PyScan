@@ -1,0 +1,13 @@
+class,func
+TestEPoll,setUp
+TestEPoll,tearDown
+TestEPoll,test_create
+TestEPoll,test_badcreate
+TestEPoll,test_context_manager
+TestEPoll,test_add
+TestEPoll,test_fromfd
+TestEPoll,test_control_and_wait
+TestEPoll,test_errors
+TestEPoll,test_unregister_closed
+TestEPoll,test_close
+TestEPoll,test_fd_non_inheritable

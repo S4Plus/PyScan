@@ -1,0 +1,4 @@
+class,func
+ExtensionModuleCaseSensitivityTest,find_module
+ExtensionModuleCaseSensitivityTest,test_case_sensitive
+ExtensionModuleCaseSensitivityTest,test_case_insensitivity

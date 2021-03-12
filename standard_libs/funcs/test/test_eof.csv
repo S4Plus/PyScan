@@ -1,0 +1,5 @@
+class,func
+EOFTestCase,test_EOFC
+EOFTestCase,test_EOFS
+EOFTestCase,test_line_continuation_EOF
+EOFTestCase,test_line_continuation_EOF_from_file_bpo2180

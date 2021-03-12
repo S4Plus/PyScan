@@ -1,0 +1,7 @@
+class,func
+None,getline
+None,clearcache
+None,getlines
+None,checkcache
+None,updatecache
+None,lazycache

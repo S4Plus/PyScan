@@ -1,0 +1,14 @@
+class,func
+TestGdbm,setUpClass
+TestGdbm,setUp
+TestGdbm,tearDown
+TestGdbm,test_key_methods
+TestGdbm,test_error_conditions
+TestGdbm,test_flags
+TestGdbm,test_reorganize
+TestGdbm,test_context_manager
+TestGdbm,test_bytes
+TestGdbm,test_unicode
+TestGdbm,test_write_readonly_file
+TestGdbm,test_nonascii_filename
+TestGdbm,test_nonexisting_file

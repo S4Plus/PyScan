@@ -1,0 +1,9 @@
+class,func
+TestTool,test_stdin_stdout
+TestTool,test_infile_stdout
+TestTool,test_non_ascii_infile
+TestTool,test_infile_outfile
+TestTool,test_jsonlines
+TestTool,test_help_flag
+TestTool,test_sort_keys_flag
+TestTool,test_broken_pipe_error

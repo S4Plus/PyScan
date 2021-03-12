@@ -1,0 +1,9 @@
+class,func
+AddCallersTestCase,test_combine_results
+StatsTestCase,setUp
+StatsTestCase,test_add
+StatsTestCase,test_sort_stats_int
+StatsTestCase,test_sort_stats_string
+StatsTestCase,test_sort_stats_partial
+StatsTestCase,test_sort_stats_enum
+StatsTestCase,test_sort_starts_mix

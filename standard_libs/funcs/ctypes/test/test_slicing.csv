@@ -1,0 +1,7 @@
+class,func
+SlicesTestCase,test_getslice_cint
+SlicesTestCase,test_setslice_cint
+SlicesTestCase,test_char_ptr
+SlicesTestCase,test_char_ptr_with_free
+SlicesTestCase,test_char_array
+SlicesTestCase,test_wchar_ptr

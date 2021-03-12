@@ -1,0 +1,6 @@
+class,func
+ProtocolsAbsTests,test_base_protocol
+ProtocolsAbsTests,test_protocol
+ProtocolsAbsTests,test_buffered_protocol
+ProtocolsAbsTests,test_datagram_protocol
+ProtocolsAbsTests,test_subprocess_protocol

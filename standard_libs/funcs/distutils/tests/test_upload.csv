@@ -1,0 +1,13 @@
+class,func
+None,test_suite
+FakeOpen,getheader
+FakeOpen,read
+FakeOpen,getcode
+uploadTestCase,setUp
+uploadTestCase,tearDown
+uploadTestCase,test_finalize_options
+uploadTestCase,test_saved_password
+uploadTestCase,test_upload
+uploadTestCase,test_upload_correct_cr
+uploadTestCase,test_upload_fails
+uploadTestCase,test_wrong_exception_order

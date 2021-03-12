@@ -1,0 +1,2 @@
+class,func
+AbstractDigestAuthHandler,reset_retry_count

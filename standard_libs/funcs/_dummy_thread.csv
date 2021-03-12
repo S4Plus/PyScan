@@ -1,0 +1,12 @@
+class,func
+None,start_new_thread
+None,exit
+None,get_ident
+None,allocate_lock
+None,stack_size
+None,interrupt_main
+LockType,acquire
+LockType,release
+LockType,locked
+RLock,acquire
+RLock,release

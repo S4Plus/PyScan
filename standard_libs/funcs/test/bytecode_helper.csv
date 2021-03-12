@@ -1,0 +1,4 @@
+class,func
+BytecodeTestCase,get_disassembly_as_string
+BytecodeTestCase,assertInBytecode
+BytecodeTestCase,assertNotInBytecode

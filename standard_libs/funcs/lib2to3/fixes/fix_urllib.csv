@@ -1,0 +1,7 @@
+class,func
+None,build_pattern
+FixUrllib,build_pattern
+FixUrllib,transform_import
+FixUrllib,transform_member
+FixUrllib,transform_dot
+FixUrllib,transform

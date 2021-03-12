@@ -1,0 +1,8 @@
+class,func
+None,showwarning
+None,formatwarning
+None,filterwarnings
+None,simplefilter
+None,resetwarnings
+None,warn
+None,warn_explicit

@@ -1,0 +1,11 @@
+class,func
+MSVCCompiler,initialize
+MSVCCompiler,object_filenames
+MSVCCompiler,compile
+MSVCCompiler,create_static_lib
+MSVCCompiler,link
+MSVCCompiler,spawn
+MSVCCompiler,library_dir_option
+MSVCCompiler,runtime_library_dir_option
+MSVCCompiler,library_option
+MSVCCompiler,find_library_file

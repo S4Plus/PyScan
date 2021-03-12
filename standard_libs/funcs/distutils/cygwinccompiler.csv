@@ -1,0 +1,7 @@
+class,func
+None,get_msvcr
+None,check_config_h
+None,get_versions
+None,is_cygwingcc
+CygwinCCompiler,link
+CygwinCCompiler,object_filenames

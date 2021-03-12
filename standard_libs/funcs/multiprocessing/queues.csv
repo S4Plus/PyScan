@@ -1,0 +1,17 @@
+class,func
+Queue,put
+Queue,get
+Queue,qsize
+Queue,empty
+Queue,full
+Queue,get_nowait
+Queue,put_nowait
+Queue,close
+Queue,join_thread
+Queue,cancel_join_thread
+JoinableQueue,put
+JoinableQueue,task_done
+JoinableQueue,join
+SimpleQueue,empty
+SimpleQueue,get
+SimpleQueue,put

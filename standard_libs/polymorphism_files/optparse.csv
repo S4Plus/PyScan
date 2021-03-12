@@ -1,0 +1,7 @@
+class,func
+OptionContainer,set_conflict_handler
+OptionContainer,set_description
+OptionContainer,get_description
+OptionContainer,destroy
+OptionContainer,format_option_help
+OptionParser,format_option_help

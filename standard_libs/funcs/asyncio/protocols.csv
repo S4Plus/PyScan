@@ -1,0 +1,15 @@
+class,func
+BaseProtocol,connection_made
+BaseProtocol,connection_lost
+BaseProtocol,pause_writing
+BaseProtocol,resume_writing
+Protocol,data_received
+Protocol,eof_received
+BufferedProtocol,get_buffer
+BufferedProtocol,buffer_updated
+BufferedProtocol,eof_received
+DatagramProtocol,datagram_received
+DatagramProtocol,error_received
+SubprocessProtocol,pipe_data_received
+SubprocessProtocol,pipe_connection_lost
+SubprocessProtocol,process_exited

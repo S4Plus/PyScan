@@ -1,0 +1,9 @@
+class,func
+None,heappush
+None,heappop
+None,heapreplace
+None,heappushpop
+None,heapify
+None,merge
+None,nsmallest
+None,nlargest

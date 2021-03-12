@@ -1,0 +1,7 @@
+class,func
+TypeChecksTest,testIsSubclassInternal
+TypeChecksTest,testIsSubclassBuiltin
+TypeChecksTest,testIsInstanceBuiltin
+TypeChecksTest,testIsInstanceActual
+TypeChecksTest,testIsSubclassActual
+TypeChecksTest,testSubclassBehavior

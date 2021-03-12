@@ -1,0 +1,13 @@
+class,func
+HyperParserTest,setUpClass
+HyperParserTest,tearDownClass
+HyperParserTest,setUp
+HyperParserTest,tearDown
+HyperParserTest,get_parser
+HyperParserTest,test_init
+HyperParserTest,test_is_in_string
+HyperParserTest,test_is_in_code
+HyperParserTest,test_get_surrounding_bracket
+HyperParserTest,test_get_expression
+HyperParserTest,test_eat_identifier
+HyperParserTest,test_eat_identifier_various_lengths

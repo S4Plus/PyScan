@@ -1,0 +1,4 @@
+class,func
+StringPtrTestCase,test__POINTER_c_char
+StringPtrTestCase,test__c_char_p
+StringPtrTestCase,test_functions

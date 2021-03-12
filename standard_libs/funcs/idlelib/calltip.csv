@@ -1,0 +1,10 @@
+class,func
+None,get_entity
+None,get_argspec
+Calltip,close
+Calltip,remove_calltip_window
+Calltip,force_open_calltip_event
+Calltip,try_open_calltip_event
+Calltip,refresh_calltip_event
+Calltip,open_calltip
+Calltip,fetch_tip

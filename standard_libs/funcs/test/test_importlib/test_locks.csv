@@ -1,0 +1,10 @@
+class,func
+None,test_main
+DeadlockAvoidanceTests,setUp
+DeadlockAvoidanceTests,tearDown
+DeadlockAvoidanceTests,run_deadlock_avoidance_test
+DeadlockAvoidanceTests,test_deadlock
+DeadlockAvoidanceTests,test_no_deadlock
+LifetimeTests,bootstrap
+LifetimeTests,test_lock_lifetime
+LifetimeTests,test_all_locks

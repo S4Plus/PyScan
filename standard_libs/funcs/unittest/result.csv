@@ -1,0 +1,16 @@
+class,func
+None,failfast
+TestResult,printErrors
+TestResult,startTest
+TestResult,startTestRun
+TestResult,stopTest
+TestResult,stopTestRun
+TestResult,addError
+TestResult,addFailure
+TestResult,addSubTest
+TestResult,addSuccess
+TestResult,addSkip
+TestResult,addExpectedFailure
+TestResult,addUnexpectedSuccess
+TestResult,wasSuccessful
+TestResult,stop

@@ -1,0 +1,6 @@
+class,func
+PathHookTest,path_hook
+PathHookTest,test_success
+PathHookTest,test_success_legacy
+PathHookTest,test_empty_string
+PathHookTest,test_empty_string_legacy

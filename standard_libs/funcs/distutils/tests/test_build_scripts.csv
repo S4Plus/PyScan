@@ -1,0 +1,8 @@
+class,func
+None,test_suite
+BuildScriptsTestCase,test_default_settings
+BuildScriptsTestCase,test_build
+BuildScriptsTestCase,get_build_scripts_cmd
+BuildScriptsTestCase,write_sample_scripts
+BuildScriptsTestCase,write_script
+BuildScriptsTestCase,test_version_int

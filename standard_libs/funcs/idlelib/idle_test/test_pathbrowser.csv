@@ -1,0 +1,9 @@
+class,func
+PathBrowserTest,setUpClass
+PathBrowserTest,tearDownClass
+PathBrowserTest,test_init
+PathBrowserTest,test_settitle
+PathBrowserTest,test_rootnode
+PathBrowserTest,test_close
+DirBrowserTreeItemTest,test_DirBrowserTreeItem
+PathBrowserTreeItemTest,test_PathBrowserTreeItem

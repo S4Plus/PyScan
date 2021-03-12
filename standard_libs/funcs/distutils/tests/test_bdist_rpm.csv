@@ -1,0 +1,6 @@
+class,func
+None,test_suite
+BuildRpmTestCase,setUp
+BuildRpmTestCase,tearDown
+BuildRpmTestCase,test_quiet
+BuildRpmTestCase,test_no_optimize_flag

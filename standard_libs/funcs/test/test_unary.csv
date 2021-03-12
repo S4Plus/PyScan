@@ -1,0 +1,7 @@
+class,func
+UnaryOpTestCase,test_negative
+UnaryOpTestCase,test_positive
+UnaryOpTestCase,test_invert
+UnaryOpTestCase,test_no_overflow
+UnaryOpTestCase,test_negation_of_exponentiation
+UnaryOpTestCase,test_bad_types

@@ -1,0 +1,4 @@
+class,func
+ScriptBindingTest,setUpClass
+ScriptBindingTest,tearDownClass
+ScriptBindingTest,test_init

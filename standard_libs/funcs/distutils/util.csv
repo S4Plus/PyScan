@@ -1,0 +1,16 @@
+class,func
+None,get_host_platform
+None,get_platform
+None,convert_path
+None,change_root
+None,check_environ
+None,subst_vars
+None,grok_environment_error
+None,split_quoted
+None,execute
+None,strtobool
+None,byte_compile
+None,rfc822_escape
+None,run_2to3
+None,copydir_run_2to3
+Mixin2to3,run_2to3

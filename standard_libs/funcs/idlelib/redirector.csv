@@ -1,0 +1,5 @@
+class,func
+WidgetRedirector,close
+WidgetRedirector,register
+WidgetRedirector,unregister
+WidgetRedirector,dispatch

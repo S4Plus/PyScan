@@ -1,0 +1,5 @@
+class,func
+IOBindingTest,setUpClass
+IOBindingTest,tearDownClass
+IOBindingTest,test_init
+IOBindingTest,test_fixnewlines_end

@@ -1,0 +1,15 @@
+class,func
+None,positive_address
+None,c_wbuffer
+CharPointersTestCase,setUp
+CharPointersTestCase,test_paramflags
+CharPointersTestCase,test_int_pointer_arg
+CharPointersTestCase,test_POINTER_c_char_arg
+CharPointersTestCase,test_c_char_p_arg
+CharPointersTestCase,test_c_void_p_arg
+CharPointersTestCase,test_c_void_p_arg_with_c_wchar_p
+CharPointersTestCase,test_instance
+WCharPointersTestCase,setUp
+WCharPointersTestCase,test_POINTER_c_wchar_arg
+WCharPointersTestCase,test_c_wchar_p_arg
+ArrayTest,test

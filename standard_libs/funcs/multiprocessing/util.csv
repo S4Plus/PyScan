@@ -1,0 +1,16 @@
+class,func
+None,sub_debug
+None,debug
+None,info
+None,sub_warning
+None,get_logger
+None,log_to_stderr
+None,is_abstract_socket_namespace
+None,get_temp_dir
+None,register_after_fork
+None,is_exiting
+None,close_all_fds_except
+None,spawnv_passfds
+None,close_fds
+Finalize,cancel
+Finalize,still_active

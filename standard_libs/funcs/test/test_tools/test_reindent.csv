@@ -1,0 +1,4 @@
+class,func
+ReindentTests,test_noargs
+ReindentTests,test_help
+ReindentTests,test_reindent_file_with_bad_encoding

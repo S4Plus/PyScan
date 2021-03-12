@@ -1,0 +1,7 @@
+class,func
+None,test_suite
+CheckTestCase,test_check_metadata
+CheckTestCase,test_check_document
+CheckTestCase,test_check_restructuredtext
+CheckTestCase,test_check_restructuredtext_with_syntax_highlight
+CheckTestCase,test_check_all

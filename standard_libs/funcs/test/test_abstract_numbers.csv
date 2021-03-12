@@ -1,0 +1,4 @@
+class,func
+TestNumbers,test_int
+TestNumbers,test_float
+TestNumbers,test_complex

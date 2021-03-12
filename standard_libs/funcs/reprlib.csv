@@ -1,0 +1,14 @@
+class,func
+None,recursive_repr
+Repr,repr
+Repr,repr1
+Repr,repr_tuple
+Repr,repr_list
+Repr,repr_array
+Repr,repr_set
+Repr,repr_frozenset
+Repr,repr_deque
+Repr,repr_dict
+Repr,repr_str
+Repr,repr_int
+Repr,repr_instance

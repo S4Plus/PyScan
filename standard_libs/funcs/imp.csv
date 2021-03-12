@@ -1,0 +1,17 @@
+class,func
+None,new_module
+None,get_magic
+None,get_tag
+None,cache_from_source
+None,source_from_cache
+None,get_suffixes
+None,load_source
+None,load_compiled
+None,load_package
+None,load_module
+None,find_module
+None,reload
+None,init_builtin
+None,load_dynamic
+NullImporter,find_module
+_HackedGetData,get_data

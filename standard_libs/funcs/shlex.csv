@@ -1,0 +1,12 @@
+class,func
+None,split
+None,join
+None,quote
+shlex,punctuation_chars
+shlex,push_token
+shlex,push_source
+shlex,pop_source
+shlex,get_token
+shlex,read_token
+shlex,sourcehook
+shlex,error_leader

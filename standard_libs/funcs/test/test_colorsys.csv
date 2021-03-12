@@ -1,0 +1,9 @@
+class,func
+None,frange
+ColorsysTest,assertTripleEqual
+ColorsysTest,test_hsv_roundtrip
+ColorsysTest,test_hsv_values
+ColorsysTest,test_hls_roundtrip
+ColorsysTest,test_hls_values
+ColorsysTest,test_yiq_roundtrip
+ColorsysTest,test_yiq_values

@@ -1,0 +1,13 @@
+class,func
+RobotFileParser,mtime
+RobotFileParser,modified
+RobotFileParser,set_url
+RobotFileParser,read
+RobotFileParser,parse
+RobotFileParser,can_fetch
+RobotFileParser,crawl_delay
+RobotFileParser,request_rate
+RobotFileParser,site_maps
+RuleLine,applies_to
+Entry,applies_to
+Entry,allowance

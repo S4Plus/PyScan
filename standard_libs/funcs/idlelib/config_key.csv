@@ -1,0 +1,14 @@
+class,func
+None,translate_key
+GetKeysDialog,showerror
+GetKeysDialog,create_widgets
+GetKeysDialog,set_modifiers_for_platform
+GetKeysDialog,toggle_level
+GetKeysDialog,final_key_selected
+GetKeysDialog,build_key_string
+GetKeysDialog,get_modifiers
+GetKeysDialog,clear_key_seq
+GetKeysDialog,ok
+GetKeysDialog,cancel
+GetKeysDialog,keys_ok
+GetKeysDialog,bind_ok

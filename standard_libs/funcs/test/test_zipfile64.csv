@@ -1,0 +1,9 @@
+class,func
+TestsWithSourceFile,setUp
+TestsWithSourceFile,zipTest
+TestsWithSourceFile,testStored
+TestsWithSourceFile,testDeflated
+TestsWithSourceFile,tearDown
+OtherTests,testMoreThan64kFiles
+OtherTests,testMoreThan64kFilesAppend
+OtherTests,tearDown

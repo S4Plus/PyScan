@@ -1,0 +1,5 @@
+class,func
+Test,test_parse_strings
+Test,test_alter_comments
+Test,test_directory
+Test,run_script

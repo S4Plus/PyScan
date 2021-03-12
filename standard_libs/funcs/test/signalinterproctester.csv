@@ -1,0 +1,7 @@
+class,func
+InterProcessSignalTests,setUp
+InterProcessSignalTests,sighup_handler
+InterProcessSignalTests,sigusr1_handler
+InterProcessSignalTests,wait_signal
+InterProcessSignalTests,subprocess_send_signal
+InterProcessSignalTests,test_interprocess_signal

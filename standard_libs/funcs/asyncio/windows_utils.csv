@@ -1,0 +1,5 @@
+class,func
+None,pipe
+PipeHandle,handle
+PipeHandle,fileno
+PipeHandle,close

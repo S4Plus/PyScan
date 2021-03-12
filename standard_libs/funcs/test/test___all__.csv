@@ -1,0 +1,4 @@
+class,func
+AllTest,check_all
+AllTest,walk_modules
+AllTest,test_all

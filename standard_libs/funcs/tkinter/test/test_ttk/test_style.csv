@@ -1,0 +1,7 @@
+class,func
+StyleTest,setUp
+StyleTest,test_configure
+StyleTest,test_map
+StyleTest,test_lookup
+StyleTest,test_layout
+StyleTest,test_theme_use

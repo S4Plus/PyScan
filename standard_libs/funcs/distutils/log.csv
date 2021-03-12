@@ -1,0 +1,9 @@
+class,func
+None,set_threshold
+None,set_verbosity
+Log,log
+Log,debug
+Log,info
+Log,warn
+Log,error
+Log,fatal

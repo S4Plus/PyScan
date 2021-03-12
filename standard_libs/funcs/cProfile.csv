@@ -1,0 +1,12 @@
+class,func
+None,run
+None,runctx
+None,label
+None,main
+Profile,print_stats
+Profile,dump_stats
+Profile,create_stats
+Profile,snapshot_stats
+Profile,run
+Profile,runctx
+Profile,runcall

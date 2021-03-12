@@ -1,0 +1,7 @@
+class,func
+DictReader,fieldnames
+DictWriter,writeheader
+DictWriter,writerow
+DictWriter,writerows
+Sniffer,sniff
+Sniffer,has_header

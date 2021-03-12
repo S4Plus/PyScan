@@ -1,0 +1,8 @@
+class,func
+StructFieldsTestCase,test_1_A
+StructFieldsTestCase,test_1_B
+StructFieldsTestCase,test_2
+StructFieldsTestCase,test_3
+StructFieldsTestCase,test_4
+StructFieldsTestCase,test___set__
+StructFieldsTestCase,test___get__

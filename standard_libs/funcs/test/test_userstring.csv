@@ -1,0 +1,7 @@
+class,func
+UserStringTest,checkequal
+UserStringTest,checkraises
+UserStringTest,checkcall
+UserStringTest,test_rmod
+UserStringTest,test_encode_default_args
+UserStringTest,test_encode_explicit_none_args

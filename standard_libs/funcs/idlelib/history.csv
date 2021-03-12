@@ -1,0 +1,5 @@
+class,func
+History,history_next
+History,history_prev
+History,fetch
+History,store

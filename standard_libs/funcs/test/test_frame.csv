@@ -1,0 +1,15 @@
+class,func
+ClearTest,inner
+ClearTest,outer
+ClearTest,clear_traceback_frames
+ClearTest,test_clear_locals
+ClearTest,test_clear_generator
+ClearTest,test_clear_executing
+ClearTest,test_clear_executing_generator
+ClearTest,test_clear_refcycles
+FrameAttrsTest,make_frames
+FrameAttrsTest,test_locals
+FrameAttrsTest,test_clear_locals
+FrameAttrsTest,test_locals_clear_locals
+FrameAttrsTest,test_f_lineno_del_segfault
+ReprTest,test_repr

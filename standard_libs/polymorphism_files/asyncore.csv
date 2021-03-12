@@ -1,0 +1,8 @@
+class,func
+None,poll
+None,poll2
+dispatcher,add_channel
+dispatcher,del_channel
+dispatcher,set_socket
+dispatcher,log_info
+dispatcher,handle_close

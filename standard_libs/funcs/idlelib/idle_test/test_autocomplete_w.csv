@@ -1,0 +1,4 @@
+class,func
+AutoCompleteWindowTest,setUpClass
+AutoCompleteWindowTest,tearDownClass
+AutoCompleteWindowTest,test_init

@@ -1,0 +1,12 @@
+class,func
+WindowsConsoleIOTests,test_abc
+WindowsConsoleIOTests,test_open_fd
+WindowsConsoleIOTests,test_open_name
+WindowsConsoleIOTests,test_conin_conout_names
+WindowsConsoleIOTests,test_conout_path
+WindowsConsoleIOTests,test_write_empty_data
+WindowsConsoleIOTests,assertStdinRoundTrip
+WindowsConsoleIOTests,test_input
+WindowsConsoleIOTests,test_partial_reads
+WindowsConsoleIOTests,test_partial_surrogate_reads
+WindowsConsoleIOTests,test_ctrl_z

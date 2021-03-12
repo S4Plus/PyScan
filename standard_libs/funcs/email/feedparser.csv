@@ -1,0 +1,11 @@
+class,func
+BufferedSubFile,push_eof_matcher
+BufferedSubFile,pop_eof_matcher
+BufferedSubFile,close
+BufferedSubFile,readline
+BufferedSubFile,unreadline
+BufferedSubFile,push
+BufferedSubFile,pushlines
+FeedParser,feed
+FeedParser,close
+BytesFeedParser,feed

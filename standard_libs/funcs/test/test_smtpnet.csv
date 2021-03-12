@@ -1,0 +1,7 @@
+class,func
+None,check_ssl_verifiy
+SmtpTest,test_connect_starttls
+SmtpSSLTest,test_connect
+SmtpSSLTest,test_connect_default_port
+SmtpSSLTest,test_connect_using_sslcontext
+SmtpSSLTest,test_connect_using_sslcontext_verified

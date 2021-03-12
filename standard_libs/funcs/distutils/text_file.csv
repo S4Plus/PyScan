@@ -1,0 +1,9 @@
+class,func
+TextFile,open
+TextFile,close
+TextFile,gen_error
+TextFile,error
+TextFile,warn
+TextFile,readline
+TextFile,readlines
+TextFile,unreadline

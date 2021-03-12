@@ -1,0 +1,13 @@
+class,func
+StructSeqTest,test_tuple
+StructSeqTest,test_repr
+StructSeqTest,test_concat
+StructSeqTest,test_repeat
+StructSeqTest,test_contains
+StructSeqTest,test_hash
+StructSeqTest,test_cmp
+StructSeqTest,test_fields
+StructSeqTest,test_constructor
+StructSeqTest,test_eviltuple
+StructSeqTest,test_reduce
+StructSeqTest,test_extended_getslice

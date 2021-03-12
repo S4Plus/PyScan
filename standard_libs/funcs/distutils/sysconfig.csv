@@ -1,0 +1,12 @@
+class,func
+None,get_python_version
+None,get_python_inc
+None,get_python_lib
+None,customize_compiler
+None,get_config_h_filename
+None,get_makefile_filename
+None,parse_config_h
+None,parse_makefile
+None,expand_makefile_vars
+None,get_config_vars
+None,get_config_var

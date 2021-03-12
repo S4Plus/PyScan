@@ -1,0 +1,4 @@
+class,func
+CallTipWindowTest,setUpClass
+CallTipWindowTest,tearDownClass
+CallTipWindowTest,test_init

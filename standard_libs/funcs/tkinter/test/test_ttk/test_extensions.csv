@@ -1,0 +1,14 @@
+class,func
+LabeledScaleTest,tearDown
+LabeledScaleTest,test_widget_destroy
+LabeledScaleTest,test_initialization_no_master
+LabeledScaleTest,test_initialization
+LabeledScaleTest,test_horizontal_range
+LabeledScaleTest,test_variable_change
+LabeledScaleTest,test_resize
+OptionMenuTest,setUp
+OptionMenuTest,tearDown
+OptionMenuTest,test_widget_destroy
+OptionMenuTest,test_initialization
+OptionMenuTest,test_menu
+OptionMenuTest,test_unique_radiobuttons

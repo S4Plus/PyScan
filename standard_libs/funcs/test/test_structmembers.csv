@@ -1,0 +1,16 @@
+class,func
+ReadWriteTests,test_bool
+ReadWriteTests,test_byte
+ReadWriteTests,test_short
+ReadWriteTests,test_int
+ReadWriteTests,test_long
+ReadWriteTests,test_py_ssize_t
+ReadWriteTests,test_longlong
+ReadWriteTests,test_bad_assignments
+ReadWriteTests,test_inplace_string
+TestWarnings,test_byte_max
+TestWarnings,test_byte_min
+TestWarnings,test_ubyte_max
+TestWarnings,test_short_max
+TestWarnings,test_short_min
+TestWarnings,test_ushort_max

@@ -1,0 +1,9 @@
+class,func
+MiscTest,test_repr
+MiscTest,test_generated_names
+MiscTest,test_tk_setPalette
+MiscTest,test_after
+MiscTest,test_after_idle
+MiscTest,test_after_cancel
+MiscTest,test_clipboard
+MiscTest,test_clipboard_astral

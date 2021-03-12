@@ -1,0 +1,6 @@
+class,func
+None,codec_search_function
+CharmapCodecTest,test_constructorx
+CharmapCodecTest,test_encodex
+CharmapCodecTest,test_constructory
+CharmapCodecTest,test_maptoundefined

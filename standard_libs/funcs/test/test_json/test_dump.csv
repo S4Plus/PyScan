@@ -1,0 +1,8 @@
+class,func
+TestDump,test_dump
+TestDump,test_dumps
+TestDump,test_dump_skipkeys
+TestDump,test_encode_truefalse
+TestDump,test_encode_mutated
+TestDump,test_encode_evil_dict
+TestCDump,test_large_list

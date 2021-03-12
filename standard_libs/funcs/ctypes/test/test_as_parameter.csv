@@ -1,0 +1,13 @@
+class,func
+BasicWrapTestCase,wrap
+BasicWrapTestCase,test_wchar_parm
+BasicWrapTestCase,test_pointers
+BasicWrapTestCase,test_shorts
+BasicWrapTestCase,test_callbacks
+BasicWrapTestCase,test_callbacks_2
+BasicWrapTestCase,test_longlong_callbacks
+BasicWrapTestCase,test_byval
+BasicWrapTestCase,test_struct_return_2H
+BasicWrapTestCase,test_struct_return_8H
+BasicWrapTestCase,test_recursive_as_param
+AsParamPropertyWrapper,getParameter

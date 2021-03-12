@@ -1,0 +1,13 @@
+class,func
+None,isAquaTk
+None,isCarbonTk
+None,isCocoaTk
+None,isXQuartz
+None,tkVersionWarning
+None,readSystemPreferences
+None,preferTabsPreferenceWarning
+None,addOpenEventSupport
+None,hideTkConsole
+None,overrideRootMenu
+None,fixb2context
+None,setupApp

@@ -1,0 +1,8 @@
+class,func
+None,main
+None,read_signed
+None,write_signed
+ForkServer,set_forkserver_preload
+ForkServer,get_inherited_fds
+ForkServer,connect_to_new_process
+ForkServer,ensure_running

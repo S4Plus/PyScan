@@ -1,0 +1,14 @@
+class,func
+TestDecode,test_decimal
+TestDecode,test_float
+TestDecode,test_empty_objects
+TestDecode,test_object_pairs_hook
+TestDecode,test_decoder_optimizations
+TestDecode,check_keys_reuse
+TestDecode,test_keys_reuse
+TestDecode,test_extra_data
+TestDecode,test_invalid_escape
+TestDecode,test_invalid_input_type
+TestDecode,test_string_with_utf8_bom
+TestDecode,test_negative_index
+TestDecode,test_deprecated_encode

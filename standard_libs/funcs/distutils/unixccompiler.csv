@@ -1,0 +1,8 @@
+class,func
+UnixCCompiler,preprocess
+UnixCCompiler,create_static_lib
+UnixCCompiler,link
+UnixCCompiler,library_dir_option
+UnixCCompiler,runtime_library_dir_option
+UnixCCompiler,library_option
+UnixCCompiler,find_library_file

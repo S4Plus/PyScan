@@ -1,0 +1,8 @@
+class,func
+None,new
+None,digest
+HMAC,name
+HMAC,update
+HMAC,copy
+HMAC,digest
+HMAC,hexdigest

@@ -1,0 +1,8 @@
+class,func
+ObjectTreeItemTest,test_init
+ClassTreeItemTest,test_isexpandable
+AtomicObjectTreeItemTest,test_isexpandable
+SequenceTreeItemTest,test_isexpandable
+SequenceTreeItemTest,test_keys
+DictTreeItemTest,test_isexpandable
+DictTreeItemTest,test_keys

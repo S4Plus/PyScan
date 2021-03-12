@@ -1,0 +1,12 @@
+class,func
+BaseTestSuite,countTestCases
+BaseTestSuite,addTest
+BaseTestSuite,addTests
+BaseTestSuite,run
+BaseTestSuite,debug
+TestSuite,run
+TestSuite,debug
+_ErrorHolder,id
+_ErrorHolder,shortDescription
+_ErrorHolder,run
+_ErrorHolder,countTestCases

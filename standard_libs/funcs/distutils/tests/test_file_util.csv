@@ -1,0 +1,9 @@
+class,func
+None,test_suite
+FileUtilTestCase,setUp
+FileUtilTestCase,tearDown
+FileUtilTestCase,test_move_file_verbosity
+FileUtilTestCase,test_move_file_exception_unpacking_rename
+FileUtilTestCase,test_move_file_exception_unpacking_unlink
+FileUtilTestCase,test_copy_file_hard_link
+FileUtilTestCase,test_copy_file_hard_link_failure

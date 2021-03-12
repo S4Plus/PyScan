@@ -1,0 +1,13 @@
+class,func
+BaseFix,compile_pattern
+BaseFix,set_filename
+BaseFix,match
+BaseFix,transform
+BaseFix,new_name
+BaseFix,log_message
+BaseFix,cannot_convert
+BaseFix,warning
+BaseFix,start_tree
+BaseFix,finish_tree
+ConditionalFix,start_tree
+ConditionalFix,should_skip

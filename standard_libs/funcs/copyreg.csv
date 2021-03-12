@@ -1,0 +1,7 @@
+class,func
+None,pickle
+None,constructor
+None,pickle_complex
+None,add_extension
+None,remove_extension
+None,clear_extension_cache

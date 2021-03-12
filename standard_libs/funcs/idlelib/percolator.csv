@@ -1,0 +1,6 @@
+class,func
+Percolator,close
+Percolator,insert
+Percolator,delete
+Percolator,insertfilter
+Percolator,removefilter

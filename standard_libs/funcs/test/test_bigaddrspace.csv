@@ -1,0 +1,8 @@
+class,func
+None,test_main
+BytesTest,test_concat
+BytesTest,test_optimized_concat
+BytesTest,test_repeat
+StrTest,test_concat
+StrTest,test_optimized_concat
+StrTest,test_repeat

@@ -1,0 +1,15 @@
+class,func
+TestBreak,setUp
+TestBreak,tearDown
+TestBreak,testInstallHandler
+TestBreak,testRegisterResult
+TestBreak,testInterruptCaught
+TestBreak,testSecondInterrupt
+TestBreak,testTwoResults
+TestBreak,testHandlerReplacedButCalled
+TestBreak,testRunner
+TestBreak,testWeakReferences
+TestBreak,testRemoveResult
+TestBreak,testMainInstallsHandler
+TestBreak,testRemoveHandler
+TestBreak,testRemoveHandlerAsDecorator

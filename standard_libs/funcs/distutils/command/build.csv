@@ -1,0 +1,9 @@
+class,func
+None,show_compilers
+build,initialize_options
+build,finalize_options
+build,run
+build,has_pure_modules
+build,has_c_libraries
+build,has_ext_modules
+build,has_scripts

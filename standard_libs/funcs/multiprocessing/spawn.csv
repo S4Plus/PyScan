@@ -1,0 +1,10 @@
+class,func
+None,set_executable
+None,get_executable
+None,is_forking
+None,freeze_support
+None,get_command_line
+None,spawn_main
+None,get_preparation_data
+None,prepare
+None,import_main_path

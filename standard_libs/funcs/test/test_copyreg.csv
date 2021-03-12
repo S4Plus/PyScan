@@ -1,0 +1,7 @@
+class,func
+CopyRegTestCase,test_class
+CopyRegTestCase,test_noncallable_reduce
+CopyRegTestCase,test_noncallable_constructor
+CopyRegTestCase,test_bool
+CopyRegTestCase,test_extension_registry
+CopyRegTestCase,test_slotnames

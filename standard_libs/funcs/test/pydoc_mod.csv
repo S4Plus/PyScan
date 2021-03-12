@@ -1,0 +1,6 @@
+class,func
+None,doc_func
+None,nodoc_func
+C,say_no
+C,get_answer
+C,is_it_true

@@ -1,0 +1,3 @@
+class,func
+TestFormats,test_data
+TestFormats,test_pickleable

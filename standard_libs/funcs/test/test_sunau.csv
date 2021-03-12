@@ -1,0 +1,6 @@
+class,func
+SunauLowLevelTest,test_read_bad_magic_number
+SunauLowLevelTest,test_read_too_small_header
+SunauLowLevelTest,test_read_too_large_header
+SunauLowLevelTest,test_read_wrong_encoding
+SunauLowLevelTest,test_read_wrong_number_of_channels

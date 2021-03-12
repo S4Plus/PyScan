@@ -1,0 +1,12 @@
+class,func
+Dummy_searchengine,getpat
+Dummy_grep,close
+FindfilesTest,setUpClass
+FindfilesTest,tearDownClass
+FindfilesTest,test_invaliddir
+FindfilesTest,test_curdir
+FindfilesTest,test_base
+FindfilesTest,test_recurse
+Grep_itTest,report
+Grep_itTest,test_unfound
+Grep_itTest,test_found

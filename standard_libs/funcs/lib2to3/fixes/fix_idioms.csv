@@ -1,0 +1,6 @@
+class,func
+FixIdioms,match
+FixIdioms,transform
+FixIdioms,transform_isinstance
+FixIdioms,transform_while
+FixIdioms,transform_sort

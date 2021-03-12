@@ -1,0 +1,8 @@
+class,func
+Headers,get_all
+Headers,get
+Headers,keys
+Headers,values
+Headers,items
+Headers,setdefault
+Headers,add_header

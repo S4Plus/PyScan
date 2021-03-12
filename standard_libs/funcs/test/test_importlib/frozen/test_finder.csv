@@ -1,0 +1,11 @@
+class,func
+FindSpecTests,find
+FindSpecTests,test_module
+FindSpecTests,test_package
+FindSpecTests,test_module_in_package
+FindSpecTests,test_failure
+FinderTests,find
+FinderTests,test_module
+FinderTests,test_package
+FinderTests,test_module_in_package
+FinderTests,test_failure

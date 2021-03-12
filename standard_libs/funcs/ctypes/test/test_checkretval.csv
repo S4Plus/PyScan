@@ -1,0 +1,3 @@
+class,func
+Test,test_checkretval
+Test,test_oledll

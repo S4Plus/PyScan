@@ -1,0 +1,11 @@
+class,func
+None,interact
+InteractiveInterpreter,runsource
+InteractiveInterpreter,runcode
+InteractiveInterpreter,showsyntaxerror
+InteractiveInterpreter,showtraceback
+InteractiveInterpreter,write
+InteractiveConsole,resetbuffer
+InteractiveConsole,interact
+InteractiveConsole,push
+InteractiveConsole,raw_input

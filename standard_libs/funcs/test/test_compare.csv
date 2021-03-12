@@ -1,0 +1,8 @@
+class,func
+ComparisonTest,test_comparisons
+ComparisonTest,test_id_comparisons
+ComparisonTest,test_ne_defaults_to_not_eq
+ComparisonTest,test_ne_high_priority
+ComparisonTest,test_ne_low_priority
+ComparisonTest,test_other_delegation
+ComparisonTest,test_issue_1393

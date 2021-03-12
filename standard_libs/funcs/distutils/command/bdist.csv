@@ -1,0 +1,5 @@
+class,func
+None,show_formats
+bdist,initialize_options
+bdist,finalize_options
+bdist,run

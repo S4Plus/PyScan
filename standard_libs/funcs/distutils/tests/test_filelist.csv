@@ -1,0 +1,17 @@
+class,func
+None,make_local_path
+None,test_suite
+FileListTestCase,assertNoWarnings
+FileListTestCase,assertWarnings
+FileListTestCase,test_glob_to_re
+FileListTestCase,test_process_template_line
+FileListTestCase,test_debug_print
+FileListTestCase,test_set_allfiles
+FileListTestCase,test_remove_duplicates
+FileListTestCase,test_translate_pattern
+FileListTestCase,test_exclude_pattern
+FileListTestCase,test_include_pattern
+FileListTestCase,test_process_template
+FindAllTestCase,test_missing_symlink
+FindAllTestCase,test_basic_discovery
+FindAllTestCase,test_non_local_discovery

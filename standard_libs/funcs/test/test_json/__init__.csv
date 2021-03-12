@@ -1,0 +1,4 @@
+class,func
+None,load_tests
+TestPyTest,test_pyjson
+TestCTest,test_cjson

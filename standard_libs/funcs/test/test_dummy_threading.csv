@@ -1,0 +1,3 @@
+class,func
+DummyThreadingTestCase,setUp
+DummyThreadingTestCase,test_tasks

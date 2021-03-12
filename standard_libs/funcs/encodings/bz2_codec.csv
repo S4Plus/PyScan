@@ -1,0 +1,10 @@
+class,func
+None,bz2_encode
+None,bz2_decode
+None,getregentry
+Codec,encode
+Codec,decode
+IncrementalEncoder,encode
+IncrementalEncoder,reset
+IncrementalDecoder,decode
+IncrementalDecoder,reset

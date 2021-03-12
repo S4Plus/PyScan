@@ -1,0 +1,8 @@
+class,func
+SilentReporter,system_message
+check,initialize_options
+check,finalize_options
+check,warn
+check,run
+check,check_metadata
+check,check_restructuredtext

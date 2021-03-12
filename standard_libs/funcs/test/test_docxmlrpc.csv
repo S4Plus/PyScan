@@ -1,0 +1,13 @@
+class,func
+None,make_request_and_skipIf
+None,make_server
+DocXMLRPCHTTPGETServer,setUp
+DocXMLRPCHTTPGETServer,tearDown
+DocXMLRPCHTTPGETServer,test_valid_get_response
+DocXMLRPCHTTPGETServer,test_invalid_get_response
+DocXMLRPCHTTPGETServer,test_lambda
+DocXMLRPCHTTPGETServer,test_autolinking
+DocXMLRPCHTTPGETServer,test_system_methods
+DocXMLRPCHTTPGETServer,test_autolink_dotted_methods
+DocXMLRPCHTTPGETServer,test_annotations
+DocXMLRPCHTTPGETServer,test_server_title_escape

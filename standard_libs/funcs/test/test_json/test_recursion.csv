@@ -1,0 +1,7 @@
+class,func
+TestRecursion,test_listrecursion
+TestRecursion,test_dictrecursion
+TestRecursion,test_defaultrecursion
+TestRecursion,test_highly_nested_objects_decoding
+TestRecursion,test_highly_nested_objects_encoding
+TestRecursion,test_endless_recursion

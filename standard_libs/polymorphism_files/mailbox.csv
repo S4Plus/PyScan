@@ -1,0 +1,6 @@
+class,func
+_mboxMMDFMessage,set_from
+_ProxyFile,read1
+_ProxyFile,tell
+_ProxyFile,seek
+_PartialFile,seek

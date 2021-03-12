@@ -1,0 +1,15 @@
+class,func
+None,cleanout
+None,fixdir
+TestPkg,setUp
+TestPkg,tearDown
+TestPkg,run_code
+TestPkg,mkhier
+TestPkg,test_1
+TestPkg,test_2
+TestPkg,test_3
+TestPkg,test_4
+TestPkg,test_5
+TestPkg,test_6
+TestPkg,test_7
+TestPkg,test_8

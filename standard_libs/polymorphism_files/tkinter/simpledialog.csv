@@ -1,0 +1,4 @@
+class,func
+SimpleDialog,done
+Dialog,destroy
+Dialog,buttonbox

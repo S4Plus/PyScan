@@ -1,0 +1,6 @@
+class,func
+CFuncPtrTestCase,test_basic
+CFuncPtrTestCase,test_first
+CFuncPtrTestCase,test_structures
+CFuncPtrTestCase,test_dllfunctions
+CFuncPtrTestCase,test_abstract

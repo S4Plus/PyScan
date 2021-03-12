@@ -1,0 +1,5 @@
+class,func
+None,message_from_string
+None,message_from_bytes
+None,message_from_file
+None,message_from_binary_file

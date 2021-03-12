@@ -1,0 +1,14 @@
+class,func
+None,findall
+None,glob_to_re
+None,translate_pattern
+FileList,set_allfiles
+FileList,findall
+FileList,debug_print
+FileList,append
+FileList,extend
+FileList,sort
+FileList,remove_duplicates
+FileList,process_template_line
+FileList,include_pattern
+FileList,exclude_pattern

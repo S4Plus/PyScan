@@ -1,0 +1,17 @@
+class,func
+None,open
+None,compress
+None,decompress
+LZMAFile,close
+LZMAFile,closed
+LZMAFile,fileno
+LZMAFile,seekable
+LZMAFile,readable
+LZMAFile,writable
+LZMAFile,peek
+LZMAFile,read
+LZMAFile,read1
+LZMAFile,readline
+LZMAFile,write
+LZMAFile,seek
+LZMAFile,tell

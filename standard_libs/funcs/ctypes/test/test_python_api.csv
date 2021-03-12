@@ -1,0 +1,7 @@
+class,func
+PythonAPITestCase,test_PyBytes_FromStringAndSize
+PythonAPITestCase,test_PyString_FromString
+PythonAPITestCase,test_PyLong_Long
+PythonAPITestCase,test_PyObj_FromPtr
+PythonAPITestCase,test_PyOS_snprintf
+PythonAPITestCase,test_pyobject_repr

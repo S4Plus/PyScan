@@ -1,0 +1,11 @@
+class,func
+None,test_suite
+DirUtilTestCase,setUp
+DirUtilTestCase,tearDown
+DirUtilTestCase,test_mkpath_remove_tree_verbosity
+DirUtilTestCase,test_mkpath_with_custom_mode
+DirUtilTestCase,test_create_tree_verbosity
+DirUtilTestCase,test_copy_tree_verbosity
+DirUtilTestCase,test_copy_tree_skips_nfs_temp_files
+DirUtilTestCase,test_ensure_relative
+DirUtilTestCase,test_copy_tree_exception_in_listdir

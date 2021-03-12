@@ -1,0 +1,7 @@
+class,func
+None,test_suite
+InstallLibTestCase,test_finalize_options
+InstallLibTestCase,test_byte_compile
+InstallLibTestCase,test_get_outputs
+InstallLibTestCase,test_get_inputs
+InstallLibTestCase,test_dont_write_bytecode

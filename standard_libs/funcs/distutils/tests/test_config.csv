@@ -1,0 +1,7 @@
+class,func
+None,test_suite
+BasePyPIRCCommandTestCase,setUp
+BasePyPIRCCommandTestCase,tearDown
+PyPIRCCommandTestCase,test_server_registration
+PyPIRCCommandTestCase,test_server_empty_registration
+PyPIRCCommandTestCase,test_config_interpolation

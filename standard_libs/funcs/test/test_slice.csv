@@ -1,0 +1,13 @@
+class,func
+None,evaluate_slice_index
+None,slice_indices
+SliceTest,test_constructor
+SliceTest,test_repr
+SliceTest,test_hash
+SliceTest,test_cmp
+SliceTest,test_members
+SliceTest,check_indices
+SliceTest,test_indices
+SliceTest,test_setslice_without_getslice
+SliceTest,test_pickle
+SliceTest,test_cycle

@@ -1,0 +1,14 @@
+class,func
+ListTest,test_basic
+ListTest,test_keyword_args
+ListTest,test_truth
+ListTest,test_identity
+ListTest,test_len
+ListTest,test_overflow
+ListTest,test_repr_large
+ListTest,test_iterator_pickle
+ListTest,test_reversed_pickle
+ListTest,test_no_comdat_folding
+ListTest,test_equal_operator_modifying_operand
+ListTest,test_preallocation
+ListTest,test_count_index_remove_crashes

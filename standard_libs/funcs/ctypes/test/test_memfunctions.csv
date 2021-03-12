@@ -1,0 +1,7 @@
+class,func
+MemFunctionsTest,test_overflow
+MemFunctionsTest,test_memmove
+MemFunctionsTest,test_memset
+MemFunctionsTest,test_cast
+MemFunctionsTest,test_string_at
+MemFunctionsTest,test_wstring_at

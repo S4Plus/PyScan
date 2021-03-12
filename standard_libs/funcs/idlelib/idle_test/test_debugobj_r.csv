@@ -1,0 +1,3 @@
+class,func
+WrappedObjectTreeItemTest,test_getattr
+StubObjectTreeItemTest,test_init

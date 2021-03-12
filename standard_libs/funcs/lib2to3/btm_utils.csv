@@ -1,0 +1,7 @@
+class,func
+None,reduce_tree
+None,get_characteristic_subpattern
+None,rec_test
+MinNode,leaf_to_root
+MinNode,get_linear_subpattern
+MinNode,leaves

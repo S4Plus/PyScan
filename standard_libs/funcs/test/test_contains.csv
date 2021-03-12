@@ -1,0 +1,5 @@
+class,func
+TestContains,test_common_tests
+TestContains,test_builtin_sequence_types
+TestContains,test_nonreflexive
+TestContains,test_block_fallback

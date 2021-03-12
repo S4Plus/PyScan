@@ -1,0 +1,10 @@
+class,func
+None,check_version
+None,NFC
+None,NFKC
+None,NFD
+None,NFKD
+None,unistr
+NormalizationTest,test_main
+NormalizationTest,run_normalization_tests
+NormalizationTest,test_bug_834676

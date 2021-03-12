@@ -1,0 +1,9 @@
+class,func
+None,setUpModule
+_LocaleTests,setUp
+_LocaleTests,tearDown
+_LocaleTests,numeric_tester
+_LocaleTests,test_lc_numeric_nl_langinfo
+_LocaleTests,test_lc_numeric_localeconv
+_LocaleTests,test_lc_numeric_basic
+_LocaleTests,test_float_parsing

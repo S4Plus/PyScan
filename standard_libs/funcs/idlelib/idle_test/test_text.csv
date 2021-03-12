@@ -1,0 +1,17 @@
+class,func
+TextTest,test_init
+TextTest,test_index_empty
+TextTest,test_index_data
+TextTest,test_get
+TextTest,test_insert
+TextTest,test_no_delete
+TextTest,test_delete_char
+TextTest,test_delete_slice
+TextTest,test_multiple_lines
+TextTest,test_compare
+MockTextTest,setUpClass
+MockTextTest,setUp
+MockTextTest,test_decode
+TkTextTest,setUpClass
+TkTextTest,tearDownClass
+TkTextTest,setUp

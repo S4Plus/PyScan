@@ -1,0 +1,6 @@
+class,func
+None,getregentry
+IncrementalEncoder,encode
+IncrementalDecoder,decode
+StreamWriter,encode
+StreamReader,decode

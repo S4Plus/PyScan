@@ -1,0 +1,8 @@
+class,func
+CalltipWindow,get_position
+CalltipWindow,position_window
+CalltipWindow,showtip
+CalltipWindow,showcontents
+CalltipWindow,checkhide_event
+CalltipWindow,hide_event
+CalltipWindow,hidetip

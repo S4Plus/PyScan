@@ -1,0 +1,7 @@
+class,func
+None,signal
+None,getsignal
+None,pthread_sigmask
+None,sigpending
+None,sigwait
+None,valid_signals

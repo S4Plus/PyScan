@@ -1,0 +1,7 @@
+class,func
+None,test_suite
+UnixCCompilerTestCase,setUp
+UnixCCompilerTestCase,tearDown
+UnixCCompilerTestCase,test_runtime_libdir_option
+UnixCCompilerTestCase,test_osx_cc_overrides_ldshared
+UnixCCompilerTestCase,test_osx_explicit_ldshared

@@ -1,0 +1,4 @@
+class,func
+AutoExpand,expand_word_event
+AutoExpand,getwords
+AutoExpand,getprevword

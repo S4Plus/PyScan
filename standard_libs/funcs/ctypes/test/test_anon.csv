@@ -1,0 +1,6 @@
+class,func
+AnonTest,test_anon
+AnonTest,test_anon_nonseq
+AnonTest,test_anon_nonmember
+AnonTest,test_issue31490
+AnonTest,test_nested

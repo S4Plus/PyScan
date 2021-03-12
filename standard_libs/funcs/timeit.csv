@@ -1,0 +1,9 @@
+class,func
+None,reindent
+None,timeit
+None,repeat
+None,main
+Timer,print_exc
+Timer,timeit
+Timer,repeat
+Timer,autorange

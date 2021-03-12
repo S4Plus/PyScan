@@ -1,0 +1,10 @@
+class,func
+None,count_lines_with_wrapping
+ExpandingButton,set_is_dangerous
+ExpandingButton,expand
+ExpandingButton,copy
+ExpandingButton,view
+ExpandingButton,context_menu_event
+Squeezer,reload
+Squeezer,count_lines
+Squeezer,squeeze_current_text_event

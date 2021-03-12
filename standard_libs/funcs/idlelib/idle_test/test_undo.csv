@@ -1,0 +1,11 @@
+class,func
+UndoDelegatorTest,setUpClass
+UndoDelegatorTest,tearDownClass
+UndoDelegatorTest,setUp
+UndoDelegatorTest,tearDown
+UndoDelegatorTest,test_undo_event
+UndoDelegatorTest,test_redo_event
+UndoDelegatorTest,test_dump_event
+UndoDelegatorTest,test_get_set_saved
+UndoDelegatorTest,test_undo_start_stop
+UndoDelegatorTest,test_addcmd

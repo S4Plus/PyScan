@@ -1,0 +1,5 @@
+class,func
+bdist_rpm,initialize_options
+bdist_rpm,finalize_options
+bdist_rpm,finalize_package_data
+bdist_rpm,run

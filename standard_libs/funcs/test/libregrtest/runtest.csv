@@ -1,0 +1,8 @@
+class,func
+None,is_failed
+None,format_test_result
+None,findtestdir
+None,findtests
+None,get_abs_module
+None,runtest
+None,cleanup_test_droppings

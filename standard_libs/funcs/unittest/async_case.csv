@@ -1,0 +1,3 @@
+class,func
+IsolatedAsyncioTestCase,addAsyncCleanup
+IsolatedAsyncioTestCase,run

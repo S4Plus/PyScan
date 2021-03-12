@@ -1,0 +1,17 @@
+class,func
+None,what
+None,test_jpeg
+None,test_png
+None,test_gif
+None,test_tiff
+None,test_rgb
+None,test_pbm
+None,test_pgm
+None,test_ppm
+None,test_rast
+None,test_xbm
+None,test_bmp
+None,test_webp
+None,test_exr
+None,test
+None,testall

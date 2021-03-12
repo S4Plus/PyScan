@@ -1,0 +1,7 @@
+class,func
+None,diff_texts
+None,warn
+None,main
+StdoutRefactoringTool,log_error
+StdoutRefactoringTool,write_file
+StdoutRefactoringTool,print_output

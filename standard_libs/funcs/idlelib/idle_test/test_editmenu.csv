@@ -1,0 +1,6 @@
+class,func
+PasteTest,setUpClass
+PasteTest,tearDownClass
+PasteTest,test_paste_text
+PasteTest,test_paste_entry
+PasteTest,test_paste_spin

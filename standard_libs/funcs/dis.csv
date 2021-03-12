@@ -1,0 +1,13 @@
+class,func
+None,dis
+None,distb
+None,pretty_flags
+None,code_info
+None,show_code
+None,get_instructions
+None,disassemble
+None,findlabels
+None,findlinestarts
+Bytecode,from_traceback
+Bytecode,info
+Bytecode,dis

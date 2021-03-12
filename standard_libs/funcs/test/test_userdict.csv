@@ -1,0 +1,5 @@
+class,func
+UserDictTest,test_all
+UserDictTest,test_init
+UserDictTest,test_update
+UserDictTest,test_missing

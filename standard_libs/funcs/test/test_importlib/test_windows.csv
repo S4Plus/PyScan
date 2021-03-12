@@ -1,0 +1,8 @@
+class,func
+None,delete_registry_tree
+None,setup_module
+WindowsRegistryFinderTests,test_find_spec_missing
+WindowsRegistryFinderTests,test_find_module_missing
+WindowsRegistryFinderTests,test_module_found
+WindowsRegistryFinderTests,test_module_not_found
+WindowsExtensionSuffixTests,test_tagged_suffix

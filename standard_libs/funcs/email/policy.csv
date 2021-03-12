@@ -1,0 +1,7 @@
+class,func
+EmailPolicy,header_max_count
+EmailPolicy,header_source_parse
+EmailPolicy,header_store_parse
+EmailPolicy,header_fetch_parse
+EmailPolicy,fold
+EmailPolicy,fold_binary

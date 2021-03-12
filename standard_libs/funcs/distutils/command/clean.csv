@@ -1,0 +1,4 @@
+class,func
+clean,initialize_options
+clean,finalize_options
+clean,run

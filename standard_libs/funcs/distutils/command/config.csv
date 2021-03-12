@@ -1,0 +1,13 @@
+class,func
+None,dump_file
+config,initialize_options
+config,finalize_options
+config,run
+config,try_cpp
+config,search_cpp
+config,try_compile
+config,try_link
+config,try_run
+config,check_func
+config,check_lib
+config,check_header

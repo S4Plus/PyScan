@@ -1,0 +1,8 @@
+class,func
+None,wrap
+None,fill
+None,shorten
+None,dedent
+None,indent
+TextWrapper,wrap
+TextWrapper,fill

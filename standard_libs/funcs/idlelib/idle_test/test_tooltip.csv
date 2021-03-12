@@ -1,0 +1,14 @@
+class,func
+None,setUpModule
+None,tearDownModule
+None,add_call_counting
+ToolTipBaseTest,setUp
+ToolTipBaseTest,test_base_class_is_unusable
+HovertipTest,setUp
+HovertipTest,is_tipwindow_shown
+HovertipTest,test_showtip
+HovertipTest,test_showtip_twice
+HovertipTest,test_hidetip
+HovertipTest,test_showtip_on_mouse_enter_no_delay
+HovertipTest,test_hover_with_delay
+HovertipTest,test_hidetip_on_mouse_leave

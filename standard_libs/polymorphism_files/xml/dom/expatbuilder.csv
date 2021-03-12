@@ -1,0 +1,6 @@
+class,func
+ExpatBuilder,createParser
+ExpatBuilder,getParser
+ExpatBuilder,reset
+ExpatBuilder,install
+FragmentBuilder,reset

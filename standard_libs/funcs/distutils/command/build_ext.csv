@@ -1,0 +1,17 @@
+class,func
+None,show_compilers
+build_ext,initialize_options
+build_ext,finalize_options
+build_ext,run
+build_ext,check_extensions_list
+build_ext,get_source_files
+build_ext,get_outputs
+build_ext,build_extensions
+build_ext,build_extension
+build_ext,swig_sources
+build_ext,find_swig
+build_ext,get_ext_fullpath
+build_ext,get_ext_fullname
+build_ext,get_ext_filename
+build_ext,get_export_symbols
+build_ext,get_libraries

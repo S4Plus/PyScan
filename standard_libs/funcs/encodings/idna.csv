@@ -1,0 +1,7 @@
+class,func
+None,nameprep
+None,ToASCII
+None,ToUnicode
+None,getregentry
+Codec,encode
+Codec,decode

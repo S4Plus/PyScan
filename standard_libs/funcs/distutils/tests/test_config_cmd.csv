@@ -1,0 +1,8 @@
+class,func
+None,test_suite
+ConfigTestCase,setUp
+ConfigTestCase,tearDown
+ConfigTestCase,test_dump_file
+ConfigTestCase,test_search_cpp
+ConfigTestCase,test_finalize_options
+ConfigTestCase,test_clean

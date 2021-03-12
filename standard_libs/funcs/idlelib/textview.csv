@@ -1,0 +1,8 @@
+class,func
+None,view_text
+None,view_file
+AutoHideScrollbar,set
+AutoHideScrollbar,pack
+AutoHideScrollbar,place
+ViewFrame,ok
+ViewWindow,ok

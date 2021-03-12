@@ -1,0 +1,12 @@
+class,func
+TestUnicode,test_encoding3
+TestUnicode,test_encoding4
+TestUnicode,test_encoding5
+TestUnicode,test_encoding6
+TestUnicode,test_big_unicode_encode
+TestUnicode,test_big_unicode_decode
+TestUnicode,test_unicode_decode
+TestUnicode,test_unicode_preservation
+TestUnicode,test_bytes_encode
+TestUnicode,test_bytes_decode
+TestUnicode,test_object_pairs_hook_with_unicode

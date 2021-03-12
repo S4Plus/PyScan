@@ -1,0 +1,11 @@
+class,func
+None,setUpModule
+None,tearDownModule
+LargeFileTest,setUp
+LargeFileTest,tearDownClass
+LargeFileTest,test_large_read
+LargeFileTest,test_osstat
+LargeFileTest,test_seek_read
+LargeFileTest,test_lseek
+LargeFileTest,test_truncate
+LargeFileTest,test_seekable

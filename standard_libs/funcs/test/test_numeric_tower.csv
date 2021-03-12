@@ -1,0 +1,11 @@
+class,func
+HashTest,check_equal_hash
+HashTest,test_bools
+HashTest,test_integers
+HashTest,test_binary_floats
+HashTest,test_complex
+HashTest,test_decimals
+HashTest,test_fractions
+HashTest,test_hash_normalization
+ComparisonTest,test_mixed_comparisons
+ComparisonTest,test_complex

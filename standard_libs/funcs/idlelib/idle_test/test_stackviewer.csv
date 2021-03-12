@@ -1,0 +1,4 @@
+class,func
+StackBrowserTest,setUpClass
+StackBrowserTest,tearDownClass
+StackBrowserTest,test_init

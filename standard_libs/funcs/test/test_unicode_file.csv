@@ -1,0 +1,5 @@
+class,func
+None,remove_if_exists
+None,test_main
+TestUnicodeFiles,test_single_files
+TestUnicodeFiles,test_directories

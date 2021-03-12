@@ -1,0 +1,13 @@
+class,func
+None,regenerate_expected_output
+None,silent
+None,test_main
+None,main
+ProfileTest,tearDown
+ProfileTest,get_expected_output
+ProfileTest,do_profiling
+ProfileTest,test_cprofile
+ProfileTest,test_calling_conventions
+ProfileTest,test_run
+ProfileTest,test_runctx
+ProfileTest,test_run_profile_as_module

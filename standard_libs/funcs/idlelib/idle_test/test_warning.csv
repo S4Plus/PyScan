@@ -1,0 +1,6 @@
+class,func
+RunWarnTest,test_showwarnings
+RunWarnTest,test_run_show
+ShellWarnTest,test_showwarnings
+ShellWarnTest,test_idle_formatter
+ShellWarnTest,test_shell_show

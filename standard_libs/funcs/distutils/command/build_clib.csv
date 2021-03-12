@@ -1,0 +1,9 @@
+class,func
+None,show_compilers
+build_clib,initialize_options
+build_clib,finalize_options
+build_clib,run
+build_clib,check_library_list
+build_clib,get_library_names
+build_clib,get_source_files
+build_clib,build_libraries

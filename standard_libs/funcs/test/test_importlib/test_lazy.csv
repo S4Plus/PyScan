@@ -1,0 +1,17 @@
+class,func
+CollectInit,exec_module
+LazyLoaderFactoryTests,test_init
+LazyLoaderFactoryTests,test_validation
+TestingImporter,find_spec
+TestingImporter,exec_module
+LazyLoaderTests,test_init
+LazyLoaderTests,new_module
+LazyLoaderTests,test_e2e
+LazyLoaderTests,test_attr_unchanged
+LazyLoaderTests,test_new_attr
+LazyLoaderTests,test_mutated_preexisting_attr
+LazyLoaderTests,test_mutated_attr
+LazyLoaderTests,test_delete_eventual_attr
+LazyLoaderTests,test_delete_preexisting_attr
+LazyLoaderTests,test_module_substitution_error
+LazyLoaderTests,test_module_already_in_sys

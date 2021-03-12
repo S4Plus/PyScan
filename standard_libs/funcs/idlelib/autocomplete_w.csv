@@ -1,0 +1,11 @@
+class,func
+AutoCompleteWindow,show_window
+AutoCompleteWindow,winconfig_event
+AutoCompleteWindow,hide_event
+AutoCompleteWindow,listselect_event
+AutoCompleteWindow,doubleclick_event
+AutoCompleteWindow,keypress_event
+AutoCompleteWindow,keyrelease_event
+AutoCompleteWindow,is_active
+AutoCompleteWindow,complete
+AutoCompleteWindow,hide_window

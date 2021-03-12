@@ -1,0 +1,4 @@
+class,func
+HelpFrameTest,setUpClass
+HelpFrameTest,tearDownClass
+HelpFrameTest,test_line1

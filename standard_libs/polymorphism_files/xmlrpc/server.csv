@@ -1,0 +1,4 @@
+class,func
+SimpleXMLRPCDispatcher,system_listMethods
+SimpleXMLRPCRequestHandler,is_rpc_path_valid
+SimpleXMLRPCRequestHandler,report_404

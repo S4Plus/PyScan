@@ -1,0 +1,14 @@
+class,func
+None,registerSignals
+None,handle_signals
+None,send_signals
+None,test_main
+ThreadSignals,test_signals
+ThreadSignals,spawnSignallingThread
+ThreadSignals,alarm_interrupt
+ThreadSignals,test_lock_acquire_interruption
+ThreadSignals,test_rlock_acquire_interruption
+ThreadSignals,acquire_retries_on_intr
+ThreadSignals,test_lock_acquire_retries_on_intr
+ThreadSignals,test_rlock_acquire_retries_on_intr
+ThreadSignals,test_interrupted_timed_acquire

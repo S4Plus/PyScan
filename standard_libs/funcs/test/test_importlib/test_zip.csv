@@ -1,0 +1,10 @@
+class,func
+TestZip,setUp
+TestZip,test_zip_version
+TestZip,test_zip_version_does_not_match
+TestZip,test_zip_entry_points
+TestZip,test_missing_metadata
+TestZip,test_case_insensitive
+TestZip,test_files
+TestEgg,setUp
+TestEgg,test_files

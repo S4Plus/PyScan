@@ -1,0 +1,2 @@
+class,func
+TestLLTrace,test_lltrace_does_not_crash_on_subscript_operator

@@ -1,0 +1,5 @@
+class,func
+None,get_class_members
+Completer,complete
+Completer,global_matches
+Completer,attr_matches

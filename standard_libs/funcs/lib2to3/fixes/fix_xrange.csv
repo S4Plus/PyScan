@@ -1,0 +1,7 @@
+class,func
+FixXrange,start_tree
+FixXrange,finish_tree
+FixXrange,transform
+FixXrange,transform_xrange
+FixXrange,transform_range
+FixXrange,in_special_context

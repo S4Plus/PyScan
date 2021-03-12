@@ -1,0 +1,12 @@
+class,func
+None,target
+None,test_main
+BaseLocalTest,test_local_refs
+BaseLocalTest,test_derived
+BaseLocalTest,test_derived_cycle_dealloc
+BaseLocalTest,test_arguments
+BaseLocalTest,test_threading_local
+BaseLocalTest,test_threading_local_subclass
+BaseLocalTest,test_dict_attribute
+BaseLocalTest,test_dict_attribute_subclass
+BaseLocalTest,test_cycle_collection

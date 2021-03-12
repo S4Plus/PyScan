@@ -1,0 +1,10 @@
+class,func
+None,nametofont
+None,families
+None,names
+Font,copy
+Font,actual
+Font,cget
+Font,config
+Font,measure
+Font,metrics

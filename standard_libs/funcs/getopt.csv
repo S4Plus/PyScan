@@ -1,0 +1,7 @@
+class,func
+None,getopt
+None,gnu_getopt
+None,do_longs
+None,long_has_args
+None,do_shorts
+None,short_has_arg

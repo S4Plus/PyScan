@@ -1,0 +1,7 @@
+class,func
+TestCgitb,test_fonts
+TestCgitb,test_blanks
+TestCgitb,test_html
+TestCgitb,test_text
+TestCgitb,test_syshook_no_logdir_default_format
+TestCgitb,test_syshook_no_logdir_text_format

@@ -1,0 +1,12 @@
+class,func
+None,strtod
+StrtodTests,check_strtod
+StrtodTests,test_short_halfway_cases
+StrtodTests,test_halfway_cases
+StrtodTests,test_boundaries
+StrtodTests,test_underflow_boundary
+StrtodTests,test_bigcomp
+StrtodTests,test_parsing
+StrtodTests,test_oversized_digit_strings
+StrtodTests,test_large_exponents
+StrtodTests,test_particular

@@ -1,0 +1,6 @@
+class,func
+None,test_suite
+msvc9compilerTestCase,test_no_compiler
+msvc9compilerTestCase,test_reg_class
+msvc9compilerTestCase,test_remove_visual_c_ref
+msvc9compilerTestCase,test_remove_entire_manifest

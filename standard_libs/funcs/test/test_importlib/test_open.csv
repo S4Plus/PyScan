@@ -1,0 +1,10 @@
+class,func
+CommonBinaryTests,execute
+CommonTextTests,execute
+OpenTests,test_open_binary
+OpenTests,test_open_text_default_encoding
+OpenTests,test_open_text_given_encoding
+OpenTests,test_open_text_with_errors
+OpenTests,test_open_binary_FileNotFoundError
+OpenTests,test_open_text_FileNotFoundError
+OpenDiskTests,setUp

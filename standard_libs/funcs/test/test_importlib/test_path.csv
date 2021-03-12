@@ -1,0 +1,4 @@
+class,func
+CommonTests,execute
+PathTests,test_reading
+PathZipTests,test_remove_in_context_manager

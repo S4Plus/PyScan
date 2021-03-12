@@ -1,0 +1,6 @@
+class,func
+Bdb,set_step
+Bdb,set_trace
+Bdb,set_continue
+Bdb,set_quit
+Bdb,clear_all_breaks

@@ -1,0 +1,10 @@
+class,func
+register,initialize_options
+register,finalize_options
+register,run
+register,check_metadata
+register,classifiers
+register,verify_metadata
+register,send_metadata
+register,build_post_data
+register,post_to_server

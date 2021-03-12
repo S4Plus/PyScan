@@ -1,0 +1,13 @@
+class,func
+Using__package__,import_module
+Using__package__,test_using___package__
+Using__package__,test_using___name__
+Using__package__,test_warn_when_using___name__
+Using__package__,test_None_as___package__
+Using__package__,test_spec_fallback
+Using__package__,test_warn_when_package_and_spec_disagree
+Using__package__,test_bad__package__
+Using__package__,test_bunk__package__
+Setting__package__,test_top_level
+Setting__package__,test_package
+Setting__package__,test_submodule

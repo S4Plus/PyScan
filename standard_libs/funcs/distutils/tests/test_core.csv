@@ -1,0 +1,11 @@
+class,func
+None,test_suite
+CoreTestCase,setUp
+CoreTestCase,tearDown
+CoreTestCase,cleanup_testfn
+CoreTestCase,write_setup
+CoreTestCase,test_run_setup_provides_file
+CoreTestCase,test_run_setup_preserves_sys_argv
+CoreTestCase,test_run_setup_defines_subclass
+CoreTestCase,test_run_setup_uses_current_dir
+CoreTestCase,test_debug_mode

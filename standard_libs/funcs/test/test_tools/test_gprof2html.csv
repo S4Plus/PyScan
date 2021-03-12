@@ -1,0 +1,3 @@
+class,func
+Gprof2htmlTests,setUp
+Gprof2htmlTests,test_gprof

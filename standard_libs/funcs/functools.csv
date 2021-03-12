@@ -1,0 +1,9 @@
+class,func
+None,update_wrapper
+None,wraps
+None,total_ordering
+None,cmp_to_key
+None,reduce
+None,lru_cache
+None,singledispatch
+singledispatchmethod,register

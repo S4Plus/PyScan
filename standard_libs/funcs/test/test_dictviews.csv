@@ -1,0 +1,15 @@
+class,func
+DictSetTest,test_constructors_not_callable
+DictSetTest,test_dict_keys
+DictSetTest,test_dict_items
+DictSetTest,test_dict_mixed_keys_items
+DictSetTest,test_dict_values
+DictSetTest,test_dict_repr
+DictSetTest,test_keys_set_operations
+DictSetTest,test_items_set_operations
+DictSetTest,test_recursive_repr
+DictSetTest,test_deeply_nested_repr
+DictSetTest,test_copy
+DictSetTest,test_compare_error
+DictSetTest,test_pickle
+DictSetTest,test_abc_registry

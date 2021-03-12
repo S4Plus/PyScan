@@ -1,0 +1,6 @@
+class,func
+StringBufferTestCase,test_buffer
+StringBufferTestCase,test_buffer_interface
+StringBufferTestCase,test_unicode_buffer
+StringBufferTestCase,test_unicode_conversion
+StringBufferTestCase,test_create_unicode_buffer_non_bmp

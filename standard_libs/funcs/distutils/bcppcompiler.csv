@@ -1,0 +1,7 @@
+class,func
+BCPPCompiler,compile
+BCPPCompiler,create_static_lib
+BCPPCompiler,link
+BCPPCompiler,find_library_file
+BCPPCompiler,object_filenames
+BCPPCompiler,preprocess

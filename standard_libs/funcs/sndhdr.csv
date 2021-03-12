@@ -1,0 +1,17 @@
+class,func
+None,what
+None,whathdr
+None,test_aifc
+None,test_au
+None,test_hcom
+None,test_voc
+None,test_wav
+None,test_8svx
+None,test_sndt
+None,test_sndr
+None,get_long_be
+None,get_long_le
+None,get_short_be
+None,get_short_le
+None,test
+None,testall

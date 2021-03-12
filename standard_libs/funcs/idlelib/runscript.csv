@@ -1,0 +1,9 @@
+class,func
+ScriptBinding,check_module_event
+ScriptBinding,tabnanny
+ScriptBinding,checksyntax
+ScriptBinding,run_module_event
+ScriptBinding,run_custom_event
+ScriptBinding,getfilename
+ScriptBinding,ask_save_dialog
+ScriptBinding,errorbox

@@ -1,0 +1,14 @@
+class,func
+None,group
+None,any
+None,maybe
+None,untokenize
+None,detect_encoding
+None,open
+None,tokenize
+None,generate_tokens
+None,main
+TokenInfo,exact_type
+Untokenizer,add_whitespace
+Untokenizer,untokenize
+Untokenizer,compat

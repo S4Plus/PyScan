@@ -1,0 +1,9 @@
+class,func
+None,find_ready_matching
+None,test_main
+DevPollTests,test_devpoll1
+DevPollTests,test_timeout_overflow
+DevPollTests,test_close
+DevPollTests,test_fd_non_inheritable
+DevPollTests,test_events_mask_overflow
+DevPollTests,test_events_mask_overflow_c_limits

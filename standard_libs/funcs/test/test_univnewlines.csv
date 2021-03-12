@@ -1,0 +1,8 @@
+class,func
+TestGenericUnivNewlines,setUp
+TestGenericUnivNewlines,tearDown
+TestGenericUnivNewlines,test_read
+TestGenericUnivNewlines,test_readlines
+TestGenericUnivNewlines,test_readline
+TestGenericUnivNewlines,test_seek
+TestCRLFNewlines,test_tell

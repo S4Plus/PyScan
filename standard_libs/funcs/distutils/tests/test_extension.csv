@@ -1,0 +1,4 @@
+class,func
+None,test_suite
+ExtensionTestCase,test_read_setup_file
+ExtensionTestCase,test_extension_init

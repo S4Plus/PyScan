@@ -1,0 +1,3 @@
+class,func
+HTTPError,reason
+HTTPError,headers

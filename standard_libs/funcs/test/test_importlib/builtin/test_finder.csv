@@ -1,0 +1,7 @@
+class,func
+FindSpecTests,test_module
+FindSpecTests,test_failure
+FindSpecTests,test_ignore_path
+FinderTests,test_module
+FinderTests,test_failure
+FinderTests,test_ignore_path

@@ -1,0 +1,5 @@
+class,func
+Test,test_compare
+Test,test_ignore_retval
+Test,test_int_callback
+Test,test_int_struct

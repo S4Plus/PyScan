@@ -1,0 +1,8 @@
+class,func
+AugAssignTest,testBasic
+AugAssignTest,test_with_unpacking
+AugAssignTest,testInList
+AugAssignTest,testInDict
+AugAssignTest,testSequences
+AugAssignTest,testCustomMethods1
+AugAssignTest,testCustomMethods2

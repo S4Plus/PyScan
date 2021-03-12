@@ -1,0 +1,8 @@
+class,func
+None,safe_name
+None,safe_version
+None,to_filename
+install_egg_info,initialize_options
+install_egg_info,finalize_options
+install_egg_info,run
+install_egg_info,get_outputs

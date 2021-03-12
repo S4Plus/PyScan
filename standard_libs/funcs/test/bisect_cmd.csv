@@ -1,0 +1,8 @@
+class,func
+None,write_tests
+None,write_output
+None,format_shell_args
+None,list_cases
+None,run_tests
+None,parse_args
+None,main

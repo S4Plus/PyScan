@@ -1,0 +1,17 @@
+class,func
+URLTimeoutTest,setUp
+URLTimeoutTest,tearDown
+URLTimeoutTest,testURLread
+urlopenNetworkTests,urlopen
+urlopenNetworkTests,test_basic
+urlopenNetworkTests,test_readlines
+urlopenNetworkTests,test_info
+urlopenNetworkTests,test_geturl
+urlopenNetworkTests,test_getcode
+urlopenNetworkTests,test_bad_address
+urlretrieveNetworkTests,urlretrieve
+urlretrieveNetworkTests,test_basic
+urlretrieveNetworkTests,test_specified_path
+urlretrieveNetworkTests,test_header
+urlretrieveNetworkTests,test_data_header
+urlretrieveNetworkTests,test_reporthook

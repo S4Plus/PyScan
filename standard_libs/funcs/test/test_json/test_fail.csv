@@ -1,0 +1,8 @@
+class,func
+TestFail,test_failures
+TestFail,test_non_string_keys_dict
+TestFail,test_not_serializable
+TestFail,test_truncated_input
+TestFail,test_unexpected_data
+TestFail,test_extra_data
+TestFail,test_linecol

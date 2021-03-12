@@ -1,0 +1,11 @@
+class,func
+None,setUpModule
+None,run_pty
+TestHistoryManipulation,testHistoryUpdates
+TestHistoryManipulation,test_write_read_append
+TestHistoryManipulation,test_nonascii_history
+TestReadline,test_init
+TestReadline,test_auto_history_enabled
+TestReadline,test_auto_history_disabled
+TestReadline,test_nonascii
+TestReadline,test_history_size

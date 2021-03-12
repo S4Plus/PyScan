@@ -1,0 +1,9 @@
+class,func
+SpecLoaderMock,find_spec
+SpecLoaderMock,create_module
+SpecLoaderMock,exec_module
+SpecLoaderAttributeTests,test___loader__
+LoaderMock,find_module
+LoaderMock,load_module
+LoaderAttributeTests,test___loader___missing
+LoaderAttributeTests,test___loader___is_None

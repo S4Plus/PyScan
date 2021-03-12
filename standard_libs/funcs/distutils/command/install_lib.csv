@@ -1,0 +1,9 @@
+class,func
+install_lib,initialize_options
+install_lib,finalize_options
+install_lib,run
+install_lib,build
+install_lib,install
+install_lib,byte_compile
+install_lib,get_outputs
+install_lib,get_inputs

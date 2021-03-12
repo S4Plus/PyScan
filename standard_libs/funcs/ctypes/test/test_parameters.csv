@@ -1,0 +1,14 @@
+class,func
+SimpleTypesTestCase,setUp
+SimpleTypesTestCase,tearDown
+SimpleTypesTestCase,test_subclasses
+SimpleTypesTestCase,test_subclasses_c_wchar_p
+SimpleTypesTestCase,test_cstrings
+SimpleTypesTestCase,test_cw_strings
+SimpleTypesTestCase,test_int_pointers
+SimpleTypesTestCase,test_byref_pointer
+SimpleTypesTestCase,test_byref_pointerpointer
+SimpleTypesTestCase,test_array_pointers
+SimpleTypesTestCase,test_noctypes_argtype
+SimpleTypesTestCase,test_abstract
+SimpleTypesTestCase,test_issue31311

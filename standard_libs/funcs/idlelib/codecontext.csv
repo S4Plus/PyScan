@@ -1,0 +1,11 @@
+class,func
+None,get_spaces_firstword
+None,get_line_info
+CodeContext,reload
+CodeContext,toggle_code_context_event
+CodeContext,get_context
+CodeContext,update_code_context
+CodeContext,jumptoline
+CodeContext,timer_event
+CodeContext,update_font
+CodeContext,update_highlight_colors

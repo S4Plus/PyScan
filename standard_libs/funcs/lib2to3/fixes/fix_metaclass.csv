@@ -1,0 +1,8 @@
+class,func
+None,has_metaclass
+None,fixup_parse_tree
+None,fixup_simple_stmt
+None,remove_trailing_newline
+None,find_metas
+None,fixup_indent
+FixMetaclass,transform

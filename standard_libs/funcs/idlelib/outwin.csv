@@ -1,0 +1,13 @@
+class,func
+None,compile_progs
+None,file_line_helper
+OutputWindow,ispythonsource
+OutputWindow,short_title
+OutputWindow,maybesave
+OutputWindow,write
+OutputWindow,writelines
+OutputWindow,flush
+OutputWindow,showerror
+OutputWindow,goto_file_line
+OnDemandOutputWindow,write
+OnDemandOutputWindow,setup

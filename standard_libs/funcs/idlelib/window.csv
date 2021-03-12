@@ -1,0 +1,11 @@
+class,func
+WindowList,add
+WindowList,delete
+WindowList,add_windows_to_menu
+WindowList,register_callback
+WindowList,unregister_callback
+WindowList,call_callbacks
+ListedToplevel,destroy
+ListedToplevel,update_windowlist_registry
+ListedToplevel,get_title
+ListedToplevel,wakeup

@@ -1,0 +1,7 @@
+class,func
+None,tearDownModule
+SelectTestCase,test_error_conditions
+SelectTestCase,test_errno
+SelectTestCase,test_returned_list_identity
+SelectTestCase,test_select
+SelectTestCase,test_select_mutated

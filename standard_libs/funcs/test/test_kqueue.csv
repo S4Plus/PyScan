@@ -1,0 +1,8 @@
+class,func
+TestKQueue,test_create_queue
+TestKQueue,test_create_event
+TestKQueue,test_queue_event
+TestKQueue,testPair
+TestKQueue,test_issue30058
+TestKQueue,test_close
+TestKQueue,test_fd_non_inheritable

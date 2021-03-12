@@ -1,0 +1,5 @@
+class,func
+None,alternates
+None,build_pattern
+FixRenames,match
+FixRenames,transform

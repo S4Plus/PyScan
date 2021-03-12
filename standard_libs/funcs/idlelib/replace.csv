@@ -1,0 +1,13 @@
+class,func
+None,replace
+ReplaceDialog,open
+ReplaceDialog,create_entries
+ReplaceDialog,create_command_buttons
+ReplaceDialog,find_it
+ReplaceDialog,replace_it
+ReplaceDialog,default_command
+ReplaceDialog,replace_all
+ReplaceDialog,do_find
+ReplaceDialog,do_replace
+ReplaceDialog,show_hit
+ReplaceDialog,close

@@ -1,0 +1,8 @@
+class,func
+None,test_main
+GlobalTests,setUp
+GlobalTests,tearDown
+GlobalTests,test1
+GlobalTests,test2
+GlobalTests,test3
+GlobalTests,test4

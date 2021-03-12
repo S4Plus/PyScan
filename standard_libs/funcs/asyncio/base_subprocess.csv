@@ -1,0 +1,16 @@
+class,func
+BaseSubprocessTransport,set_protocol
+BaseSubprocessTransport,get_protocol
+BaseSubprocessTransport,is_closing
+BaseSubprocessTransport,close
+BaseSubprocessTransport,get_pid
+BaseSubprocessTransport,get_returncode
+BaseSubprocessTransport,get_pipe_transport
+BaseSubprocessTransport,send_signal
+BaseSubprocessTransport,terminate
+BaseSubprocessTransport,kill
+WriteSubprocessPipeProto,connection_made
+WriteSubprocessPipeProto,connection_lost
+WriteSubprocessPipeProto,pause_writing
+WriteSubprocessPipeProto,resume_writing
+ReadSubprocessPipeProto,data_received

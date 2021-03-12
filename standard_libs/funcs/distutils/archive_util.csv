@@ -1,0 +1,5 @@
+class,func
+None,make_tarball
+None,make_zipfile
+None,check_archive_formats
+None,make_archive

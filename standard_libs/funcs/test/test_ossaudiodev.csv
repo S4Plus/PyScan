@@ -1,0 +1,11 @@
+class,func
+None,read_sound_file
+None,test_main
+OSSAudioDevTests,play_sound_file
+OSSAudioDevTests,set_parameters
+OSSAudioDevTests,set_bad_parameters
+OSSAudioDevTests,test_playback
+OSSAudioDevTests,test_set_parameters
+OSSAudioDevTests,test_mixer_methods
+OSSAudioDevTests,test_with
+OSSAudioDevTests,test_on_closed

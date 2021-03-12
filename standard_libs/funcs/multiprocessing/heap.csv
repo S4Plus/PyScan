@@ -1,0 +1,6 @@
+class,func
+None,reduce_arena
+None,rebuild_arena
+Heap,free
+Heap,malloc
+BufferWrapper,create_memoryview

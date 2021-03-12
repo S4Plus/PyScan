@@ -1,0 +1,11 @@
+class,func
+None,test_suite
+MyCmd,initialize_options
+CommandTestCase,setUp
+CommandTestCase,test_ensure_string_list
+CommandTestCase,test_make_file
+CommandTestCase,test_dump_options
+CommandTestCase,test_ensure_string
+CommandTestCase,test_ensure_filename
+CommandTestCase,test_ensure_dirname
+CommandTestCase,test_debug_print

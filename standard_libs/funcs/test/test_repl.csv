@@ -1,0 +1,4 @@
+class,func
+None,spawn_repl
+TestInteractiveInterpreter,test_no_memory
+TestInteractiveInterpreter,test_multiline_string_parsing

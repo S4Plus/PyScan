@@ -1,0 +1,15 @@
+class,func
+None,tearDownModule
+UpperProto,connection_made
+UpperProto,data_received
+ProactorLoopCtrlC,test_ctrl_c
+ProactorMultithreading,test_run_from_nonmain_thread
+ProactorTests,setUp
+ProactorTests,test_close
+ProactorTests,test_double_bind
+ProactorTests,test_pipe
+ProactorTests,test_connect_pipe_cancel
+ProactorTests,test_wait_for_handle
+ProactorTests,test_wait_for_handle_cancel
+WinPolicyTests,test_selector_win_policy
+WinPolicyTests,test_proactor_win_policy

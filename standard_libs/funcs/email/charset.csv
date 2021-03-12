@@ -1,0 +1,9 @@
+class,func
+None,add_charset
+None,add_alias
+None,add_codec
+Charset,get_body_encoding
+Charset,get_output_charset
+Charset,header_encode
+Charset,header_encode_lines
+Charset,body_encode

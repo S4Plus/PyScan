@@ -1,0 +1,12 @@
+class,func
+None,destroy_default_root
+None,simulate_mouse_click
+None,requires_tcl
+None,get_tk_patchlevel
+None,pixels_conv
+None,tcl_obj_eq
+None,widget_eq
+AbstractTkTest,setUpClass
+AbstractTkTest,tearDownClass
+AbstractTkTest,setUp
+AbstractTkTest,tearDown

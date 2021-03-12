@@ -1,0 +1,7 @@
+class,func
+None,load
+_PlistParser,add_object
+_DumbXMLWriter,simple_element
+_DumbXMLWriter,writeln
+_PlistWriter,write
+_PlistWriter,write_value

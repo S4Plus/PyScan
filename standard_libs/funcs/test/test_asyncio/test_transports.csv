@@ -1,0 +1,8 @@
+class,func
+TransportTests,test_ctor_extra_is_none
+TransportTests,test_get_extra_info
+TransportTests,test_writelines
+TransportTests,test_not_implemented
+TransportTests,test_dgram_not_implemented
+TransportTests,test_subprocess_transport_not_implemented
+TransportTests,test_flowcontrol_mixin_set_write_limits

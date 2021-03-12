@@ -1,0 +1,4 @@
+class,func
+None,normalize
+Test,test_native_types
+Test,test_endian_types

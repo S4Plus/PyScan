@@ -1,0 +1,5 @@
+class,func
+TestPickleCopyHeader,header_as_deepcopy
+TestPickleCopyHeader,header_as_pickle
+TestPickleCopyMessage,msg_as_deepcopy
+TestPickleCopyMessage,msg_as_pickle

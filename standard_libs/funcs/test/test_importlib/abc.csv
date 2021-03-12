@@ -1,0 +1,12 @@
+class,func
+FinderTests,test_module
+FinderTests,test_package
+FinderTests,test_module_in_package
+FinderTests,test_package_in_package
+FinderTests,test_package_over_module
+FinderTests,test_failure
+LoaderTests,test_module
+LoaderTests,test_package
+LoaderTests,test_lacking_parent
+LoaderTests,test_state_after_failure
+LoaderTests,test_unloadable

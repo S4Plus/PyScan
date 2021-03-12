@@ -1,0 +1,14 @@
+class,func
+None,guess_type
+None,guess_all_extensions
+None,guess_extension
+None,add_type
+None,init
+None,read_mime_types
+MimeTypes,add_type
+MimeTypes,guess_type
+MimeTypes,guess_all_extensions
+MimeTypes,guess_extension
+MimeTypes,read
+MimeTypes,readfp
+MimeTypes,read_windows_registry

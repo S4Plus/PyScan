@@ -1,0 +1,8 @@
+class,func
+None,test_suite
+BuildPyTestCase,test_package_data
+BuildPyTestCase,test_empty_package_dir
+BuildPyTestCase,test_byte_compile
+BuildPyTestCase,test_byte_compile_optimized
+BuildPyTestCase,test_dir_in_package_data
+BuildPyTestCase,test_dont_write_bytecode

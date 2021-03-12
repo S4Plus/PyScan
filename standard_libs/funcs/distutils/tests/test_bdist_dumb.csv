@@ -1,0 +1,5 @@
+class,func
+None,test_suite
+BuildDumbTestCase,setUp
+BuildDumbTestCase,tearDown
+BuildDumbTestCase,test_simple_built

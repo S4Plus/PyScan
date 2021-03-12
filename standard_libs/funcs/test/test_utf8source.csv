@@ -1,0 +1,4 @@
+class,func
+PEP3120Test,test_pep3120
+PEP3120Test,test_badsyntax
+BuiltinCompileTests,test_latin1

@@ -1,0 +1,3 @@
+class,func
+PurePath,joinpath
+PurePath,is_absolute

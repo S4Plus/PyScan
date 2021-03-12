@@ -1,0 +1,8 @@
+class,func
+AutoComplete,reload
+AutoComplete,force_open_completions_event
+AutoComplete,autocomplete_event
+AutoComplete,try_open_completions_event
+AutoComplete,open_completions
+AutoComplete,fetch_completions
+AutoComplete,get_entity

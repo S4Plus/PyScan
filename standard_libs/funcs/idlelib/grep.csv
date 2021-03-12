@@ -1,0 +1,10 @@
+class,func
+None,grep
+None,walk_error
+None,findfiles
+GrepDialog,open
+GrepDialog,create_entries
+GrepDialog,create_other_buttons
+GrepDialog,create_command_buttons
+GrepDialog,default_command
+GrepDialog,grep_it

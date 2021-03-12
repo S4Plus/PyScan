@@ -1,0 +1,5 @@
+class,func
+None,encode_base64
+None,encode_quopri
+None,encode_7or8bit
+None,encode_noop

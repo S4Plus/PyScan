@@ -1,0 +1,12 @@
+class,func
+LoaderTests,setUp
+LoaderTests,verify
+LoaderTests,load_module
+LoaderTests,test_module
+LoaderTests,test_module_reuse
+LoaderTests,test_unloadable
+LoaderTests,test_already_imported
+InspectLoaderTests,test_get_code
+InspectLoaderTests,test_get_source
+InspectLoaderTests,test_is_package
+InspectLoaderTests,test_not_builtin

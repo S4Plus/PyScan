@@ -1,0 +1,9 @@
+class,func
+TestSpeedups,test_scanstring
+TestSpeedups,test_encode_basestring_ascii
+TestDecode,test_make_scanner
+TestDecode,test_bad_bool_args
+TestEncode,test_make_encoder
+TestEncode,test_bad_str_encoder
+TestEncode,test_bad_bool_args
+TestEncode,test_unsortable_keys

@@ -1,0 +1,7 @@
+class,func
+SentinelTest,testSentinels
+SentinelTest,testSentinelName
+SentinelTest,testDEFAULT
+SentinelTest,testBases
+SentinelTest,testPickle
+SentinelTest,testCopy

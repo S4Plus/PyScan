@@ -1,0 +1,4 @@
+class,func
+VarSizeTest,test_resize
+VarSizeTest,test_array_invalid_length
+VarSizeTest,test_zerosized_array

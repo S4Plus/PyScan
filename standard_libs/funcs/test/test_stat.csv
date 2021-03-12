@@ -1,0 +1,12 @@
+class,func
+TestFilemode,setUp
+TestFilemode,get_mode
+TestFilemode,assertS_IS
+TestFilemode,test_mode
+TestFilemode,test_directory
+TestFilemode,test_link
+TestFilemode,test_fifo
+TestFilemode,test_devices
+TestFilemode,test_socket
+TestFilemode,test_module_attributes
+TestFilemode,test_file_attribute_constants

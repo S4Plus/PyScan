@@ -1,0 +1,4 @@
+class,func
+TestSpwdRoot,test_getspall
+TestSpwdRoot,test_getspnam
+TestSpwdNonRoot,test_getspnam_exception

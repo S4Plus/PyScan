@@ -1,0 +1,5 @@
+class,func
+None,test_suite
+SpawnTestCase,test_nt_quote_args
+SpawnTestCase,test_spawn
+SpawnTestCase,test_find_executable

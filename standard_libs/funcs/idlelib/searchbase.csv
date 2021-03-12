@@ -1,0 +1,12 @@
+class,func
+SearchDialogBase,open
+SearchDialogBase,close
+SearchDialogBase,create_widgets
+SearchDialogBase,make_entry
+SearchDialogBase,create_entries
+SearchDialogBase,make_frame
+SearchDialogBase,create_option_buttons
+SearchDialogBase,create_other_buttons
+SearchDialogBase,make_button
+SearchDialogBase,create_command_buttons
+_searchbase,default_command

@@ -1,0 +1,3 @@
+class,func
+PathHookTests,hook
+PathHookTests,test_success

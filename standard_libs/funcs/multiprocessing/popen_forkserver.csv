@@ -1,0 +1,4 @@
+class,func
+_DupFd,detach
+Popen,duplicate_for_child
+Popen,poll

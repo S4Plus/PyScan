@@ -1,0 +1,11 @@
+class,func
+FontTest,setUpClass
+FontTest,test_configure
+FontTest,test_unicode_family
+FontTest,test_actual
+FontTest,test_name
+FontTest,test_eq
+FontTest,test_measure
+FontTest,test_metrics
+FontTest,test_families
+FontTest,test_names

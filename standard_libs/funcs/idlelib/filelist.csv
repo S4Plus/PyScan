@@ -1,0 +1,8 @@
+class,func
+FileList,open
+FileList,gotofileline
+FileList,new
+FileList,close_all_callback
+FileList,unregister_maybe_terminate
+FileList,filename_changed_edit
+FileList,canonize

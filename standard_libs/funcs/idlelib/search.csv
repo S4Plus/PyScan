@@ -1,0 +1,8 @@
+class,func
+None,find
+None,find_again
+None,find_selection
+SearchDialog,create_widgets
+SearchDialog,default_command
+SearchDialog,find_again
+SearchDialog,find_selection

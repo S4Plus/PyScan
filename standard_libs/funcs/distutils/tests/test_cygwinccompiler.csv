@@ -1,0 +1,7 @@
+class,func
+None,test_suite
+CygwinCCompilerTestCase,setUp
+CygwinCCompilerTestCase,tearDown
+CygwinCCompilerTestCase,test_check_config_h
+CygwinCCompilerTestCase,test_get_versions
+CygwinCCompilerTestCase,test_get_msvcr

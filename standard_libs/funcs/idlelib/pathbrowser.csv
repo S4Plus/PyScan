@@ -1,0 +1,9 @@
+class,func
+PathBrowser,settitle
+PathBrowser,rootnode
+PathBrowserTreeItem,GetText
+PathBrowserTreeItem,GetSubList
+DirBrowserTreeItem,GetText
+DirBrowserTreeItem,GetSubList
+DirBrowserTreeItem,ispackagedir
+DirBrowserTreeItem,listmodules

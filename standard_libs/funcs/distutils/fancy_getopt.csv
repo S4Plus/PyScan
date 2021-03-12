@@ -1,0 +1,14 @@
+class,func
+None,fancy_getopt
+None,wrap_text
+None,translate_longopt
+FancyGetopt,set_option_table
+FancyGetopt,add_option
+FancyGetopt,has_option
+FancyGetopt,get_attr_name
+FancyGetopt,set_aliases
+FancyGetopt,set_negative_aliases
+FancyGetopt,getopt
+FancyGetopt,get_option_order
+FancyGetopt,generate_help
+FancyGetopt,print_help

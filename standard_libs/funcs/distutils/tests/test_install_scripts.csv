@@ -1,0 +1,4 @@
+class,func
+None,test_suite
+InstallScriptsTestCase,test_default_settings
+InstallScriptsTestCase,test_installation

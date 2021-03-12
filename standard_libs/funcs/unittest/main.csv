@@ -1,0 +1,5 @@
+class,func
+TestProgram,usageExit
+TestProgram,parseArgs
+TestProgram,createTests
+TestProgram,runTests

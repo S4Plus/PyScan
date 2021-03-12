@@ -1,0 +1,8 @@
+class,func
+None,quopri_encode
+None,quopri_decode
+None,getregentry
+Codec,encode
+Codec,decode
+IncrementalEncoder,encode
+IncrementalDecoder,decode

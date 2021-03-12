@@ -1,0 +1,8 @@
+class,func
+None,is_docstring
+None,simplify_args
+None,find_params
+None,map_to_index
+None,tuple_name
+FixTupleParams,transform
+FixTupleParams,transform_lambda

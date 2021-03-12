@@ -1,0 +1,10 @@
+class,func
+SimpleTestCase,test_cint
+SimpleTestCase,test_ccharp
+StructureTestCase,test_cint_struct
+StructureTestCase,test_ccharp_struct
+StructureTestCase,test_struct_struct
+ArrayTestCase,test_cint_array
+PointerTestCase,test_p_cint
+DeletePointerTestCase,test_X
+PointerToStructure,test

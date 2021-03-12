@@ -1,0 +1,16 @@
+class,func
+ArrayTestCase,test_simple
+ArrayTestCase,test_step_overflow
+ArrayTestCase,test_numeric_arrays
+ArrayTestCase,test_classcache
+ArrayTestCase,test_from_address
+ArrayTestCase,test_from_addressW
+ArrayTestCase,test_cache
+ArrayTestCase,test_subclass
+ArrayTestCase,test_bad_subclass
+ArrayTestCase,test_bad_length
+ArrayTestCase,test_zero_length
+ArrayTestCase,test_empty_element_struct
+ArrayTestCase,test_empty_element_array
+ArrayTestCase,test_bpo36504_signed_int_overflow
+ArrayTestCase,test_large_array

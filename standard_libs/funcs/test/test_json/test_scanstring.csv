@@ -1,0 +1,5 @@
+class,func
+TestScanstring,test_scanstring
+TestScanstring,test_surrogates
+TestScanstring,test_bad_escapes
+TestScanstring,test_overflow

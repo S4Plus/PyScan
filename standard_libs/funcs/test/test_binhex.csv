@@ -1,0 +1,6 @@
+class,func
+None,test_main
+BinHexTestCase,setUp
+BinHexTestCase,tearDown
+BinHexTestCase,test_binhex
+BinHexTestCase,test_binhex_error_on_long_filename

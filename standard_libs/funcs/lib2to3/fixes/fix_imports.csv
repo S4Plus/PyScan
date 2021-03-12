@@ -1,0 +1,8 @@
+class,func
+None,alternates
+None,build_pattern
+FixImports,build_pattern
+FixImports,compile_pattern
+FixImports,match
+FixImports,start_tree
+FixImports,transform

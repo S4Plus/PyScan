@@ -1,0 +1,11 @@
+class,func
+EditorWindowTest,setUpClass
+EditorWindowTest,tearDownClass
+EditorWindowTest,test_init
+TestGetLineIndent,test_empty_lines
+TestGetLineIndent,test_tabwidth_4
+TestGetLineIndent,test_tabwidth_8
+IndentAndNewlineTest,setUpClass
+IndentAndNewlineTest,tearDownClass
+IndentAndNewlineTest,insert
+IndentAndNewlineTest,test_indent_and_newline_event

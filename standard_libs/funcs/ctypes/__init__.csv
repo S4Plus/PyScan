@@ -1,0 +1,16 @@
+class,func
+None,create_string_buffer
+None,c_buffer
+None,CFUNCTYPE
+None,WINFUNCTYPE
+None,create_unicode_buffer
+None,SetPointerType
+None,ARRAY
+None,WinError
+None,PYFUNCTYPE
+None,cast
+None,string_at
+None,wstring_at
+None,DllGetClassObject
+None,DllCanUnloadNow
+LibraryLoader,LoadLibrary

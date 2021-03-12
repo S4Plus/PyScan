@@ -1,0 +1,16 @@
+class,func
+Queue,task_done
+Queue,join
+Queue,qsize
+Queue,empty
+Queue,full
+Queue,put
+Queue,get
+Queue,put_nowait
+Queue,get_nowait
+_PySimpleQueue,put
+_PySimpleQueue,get
+_PySimpleQueue,put_nowait
+_PySimpleQueue,get_nowait
+_PySimpleQueue,empty
+_PySimpleQueue,qsize

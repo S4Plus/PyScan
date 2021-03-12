@@ -1,0 +1,13 @@
+class,func
+None,test_main
+ResourceTest,test_args
+ResourceTest,test_fsize_ismax
+ResourceTest,test_fsize_enforced
+ResourceTest,test_fsize_toobig
+ResourceTest,test_getrusage
+ResourceTest,test_setrusage_refcount
+ResourceTest,test_pagesize
+ResourceTest,test_linux_constants
+ResourceTest,test_freebsd_contants
+ResourceTest,test_prlimit
+ResourceTest,test_prlimit_refcount

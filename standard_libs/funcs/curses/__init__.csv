@@ -1,0 +1,4 @@
+class,func
+None,initscr
+None,start_color
+None,wrapper

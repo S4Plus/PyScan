@@ -1,0 +1,15 @@
+class,func
+_PolicyBase,clone
+Policy,handle_defect
+Policy,register_defect
+Policy,header_max_count
+Policy,header_source_parse
+Policy,header_store_parse
+Policy,header_fetch_parse
+Policy,fold
+Policy,fold_binary
+Compat32,header_source_parse
+Compat32,header_store_parse
+Compat32,header_fetch_parse
+Compat32,fold
+Compat32,fold_binary

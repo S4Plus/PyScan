@@ -1,0 +1,13 @@
+class,func
+ReplaceDialogTest,setUpClass
+ReplaceDialogTest,tearDownClass
+ReplaceDialogTest,setUp
+ReplaceDialogTest,tearDown
+ReplaceDialogTest,test_replace_simple
+ReplaceDialogTest,test_replace_wrap_around
+ReplaceDialogTest,test_replace_whole_word
+ReplaceDialogTest,test_replace_match_case
+ReplaceDialogTest,test_replace_regex
+ReplaceDialogTest,test_replace_backwards
+ReplaceDialogTest,test_replace_all
+ReplaceDialogTest,test_default_command

@@ -1,0 +1,6 @@
+class,func
+None,openpty
+None,master_open
+None,slave_open
+None,fork
+None,spawn

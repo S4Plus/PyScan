@@ -1,0 +1,7 @@
+class,func
+CaseSensitivityTest,finder
+CaseSensitivityTest,sensitivity_test
+CaseSensitivityTest,test_sensitive
+CaseSensitivityTest,test_insensitive
+CaseSensitivityTestPEP302,find
+CaseSensitivityTestPEP451,find

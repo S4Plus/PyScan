@@ -1,0 +1,5 @@
+class,func
+TestFloat,test_floats
+TestFloat,test_ints
+TestFloat,test_out_of_range
+TestFloat,test_allow_nan

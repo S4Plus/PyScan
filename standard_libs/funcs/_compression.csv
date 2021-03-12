@@ -1,0 +1,8 @@
+class,func
+DecompressReader,readable
+DecompressReader,close
+DecompressReader,seekable
+DecompressReader,readinto
+DecompressReader,read
+DecompressReader,seek
+DecompressReader,tell

@@ -1,0 +1,6 @@
+class,func
+HyperParser,set_index
+HyperParser,is_in_string
+HyperParser,is_in_code
+HyperParser,get_surrounding_brackets
+HyperParser,get_expression

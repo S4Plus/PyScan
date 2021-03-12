@@ -1,0 +1,14 @@
+class,func
+None,formataddr
+None,getaddresses
+None,formatdate
+None,format_datetime
+None,make_msgid
+None,parsedate_to_datetime
+None,parseaddr
+None,unquote
+None,decode_rfc2231
+None,encode_rfc2231
+None,decode_params
+None,collapse_rfc2231_value
+None,localtime

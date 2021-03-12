@@ -1,0 +1,4 @@
+class,func
+None,ISTERMINAL
+None,ISNONTERMINAL
+None,ISEOF

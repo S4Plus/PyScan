@@ -1,0 +1,15 @@
+class,func
+None,encode
+None,decode
+None,getregentry
+IncrementalEncoder,encode
+IncrementalEncoder,reset
+IncrementalEncoder,getstate
+IncrementalEncoder,setstate
+IncrementalDecoder,reset
+IncrementalDecoder,getstate
+IncrementalDecoder,setstate
+StreamWriter,reset
+StreamWriter,encode
+StreamReader,reset
+StreamReader,decode

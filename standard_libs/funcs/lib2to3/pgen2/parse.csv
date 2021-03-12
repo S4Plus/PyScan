@@ -1,0 +1,7 @@
+class,func
+Parser,setup
+Parser,addtoken
+Parser,classify
+Parser,shift
+Parser,push
+Parser,pop

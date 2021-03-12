@@ -1,0 +1,4 @@
+class,func
+NameSpaceTest,setUpClass
+NameSpaceTest,tearDownClass
+NameSpaceTest,test_init

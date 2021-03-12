@@ -1,0 +1,8 @@
+class,func
+None,tearDownModule
+ZipSupportTests,setUp
+ZipSupportTests,tearDown
+ZipSupportTests,test_inspect_getsource_issue4223
+ZipSupportTests,test_doctest_issue4197
+ZipSupportTests,test_doctest_main_issue4197
+ZipSupportTests,test_pdb_issue4201

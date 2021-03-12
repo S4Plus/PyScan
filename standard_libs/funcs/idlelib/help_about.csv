@@ -1,0 +1,12 @@
+class,func
+None,build_bits
+AboutDialog,create_widgets
+AboutDialog,show_py_license
+AboutDialog,show_py_copyright
+AboutDialog,show_py_credits
+AboutDialog,show_idle_credits
+AboutDialog,show_readme
+AboutDialog,show_idle_news
+AboutDialog,display_printer_text
+AboutDialog,display_file_text
+AboutDialog,ok

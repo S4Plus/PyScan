@@ -1,0 +1,8 @@
+class,func
+TestPathfixFunctional,setUp
+TestPathfixFunctional,pathfix
+TestPathfixFunctional,test_recursive
+TestPathfixFunctional,test_pathfix
+TestPathfixFunctional,test_pathfix_keeping_flags
+TestPathfixFunctional,test_pathfix_adding_flag
+TestPathfixFunctional,test_pathfix_adding_errors

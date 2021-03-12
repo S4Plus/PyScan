@@ -1,0 +1,12 @@
+class,func
+PindentTests,assertFileEqual
+PindentTests,pindent
+PindentTests,lstriplines
+PindentTests,test_selftest
+PindentTests,pindent_test
+PindentTests,test_statements
+PindentTests,test_multilevel
+PindentTests,test_preserve_indents
+PindentTests,test_escaped_newline
+PindentTests,test_empty_line
+PindentTests,test_oneline

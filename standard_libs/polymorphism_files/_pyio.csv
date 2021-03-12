@@ -1,0 +1,10 @@
+class,func
+BufferedReader,read
+BufferedReader,peek
+BufferedReader,read1
+BufferedReader,tell
+BufferedWriter,truncate
+BufferedWriter,flush
+FileIO,read
+TextIOWrapper,flush
+TextIOWrapper,tell

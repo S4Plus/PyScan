@@ -1,0 +1,5 @@
+class,func
+None,insort_right
+None,bisect_right
+None,insort_left
+None,bisect_left

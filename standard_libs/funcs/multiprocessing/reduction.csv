@@ -1,0 +1,13 @@
+class,func
+None,dump
+None,duplicate
+None,steal_handle
+None,send_handle
+None,recv_handle
+None,sendfds
+None,recvfds
+None,DupFd
+ForkingPickler,register
+ForkingPickler,dumps
+DupHandle,detach
+_C,f

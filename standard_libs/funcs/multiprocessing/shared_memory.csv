@@ -1,0 +1,9 @@
+class,func
+SharedMemory,buf
+SharedMemory,name
+SharedMemory,size
+SharedMemory,close
+SharedMemory,unlink
+ShareableList,format
+ShareableList,count
+ShareableList,index

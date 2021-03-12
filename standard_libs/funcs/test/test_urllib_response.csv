@@ -1,0 +1,7 @@
+class,func
+TestResponse,setUp
+TestResponse,test_with
+TestResponse,test_addclosehook
+TestResponse,test_addinfo
+TestResponse,test_addinfourl
+TestResponse,tearDown

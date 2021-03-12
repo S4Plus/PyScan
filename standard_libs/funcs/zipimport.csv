@@ -1,0 +1,14 @@
+class,func
+zipimporter,find_loader
+zipimporter,find_module
+zipimporter,get_code
+zipimporter,get_data
+zipimporter,get_filename
+zipimporter,get_source
+zipimporter,is_package
+zipimporter,load_module
+zipimporter,get_resource_reader
+_ZipImportResourceReader,open_resource
+_ZipImportResourceReader,resource_path
+_ZipImportResourceReader,is_resource
+_ZipImportResourceReader,contents

@@ -1,0 +1,17 @@
+class,func
+CloseSocketTest,test_close
+OtherNetworkTests,setUp
+OtherNetworkTests,test_ftp
+OtherNetworkTests,test_file
+OtherNetworkTests,test_urlwithfrag
+OtherNetworkTests,test_redirect_url_withfrag
+OtherNetworkTests,test_custom_headers
+OtherNetworkTests,test_sites_no_connection_close
+TimeoutTest,test_http_basic
+TimeoutTest,test_http_default_timeout
+TimeoutTest,test_http_no_timeout
+TimeoutTest,test_http_timeout
+TimeoutTest,test_ftp_basic
+TimeoutTest,test_ftp_default_timeout
+TimeoutTest,test_ftp_no_timeout
+TimeoutTest,test_ftp_timeout

@@ -1,0 +1,8 @@
+class,func
+PowTest,powtest
+PowTest,test_powint
+PowTest,test_powfloat
+PowTest,test_other
+PowTest,test_bug643260
+PowTest,test_bug705231
+PowTest,test_negative_exponent

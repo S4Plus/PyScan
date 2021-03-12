@@ -1,0 +1,4 @@
+class,func
+FileListTest,setUpClass
+FileListTest,tearDownClass
+FileListTest,test_new_empty

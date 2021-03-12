@@ -1,0 +1,10 @@
+class,func
+MD5SumTests,setUpClass
+MD5SumTests,tearDownClass
+MD5SumTests,test_noargs
+MD5SumTests,test_checksum_fodder
+MD5SumTests,test_dash_l
+MD5SumTests,test_dash_t
+MD5SumTests,test_dash_s
+MD5SumTests,test_multiple_files
+MD5SumTests,test_usage

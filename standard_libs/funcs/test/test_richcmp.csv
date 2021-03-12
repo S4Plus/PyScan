@@ -1,0 +1,15 @@
+class,func
+VectorTest,checkfail
+VectorTest,checkequal
+VectorTest,test_mixed
+NumberTest,test_basic
+NumberTest,checkvalue
+NumberTest,test_values
+MiscTest,test_misbehavin
+MiscTest,test_not
+MiscTest,test_recursion
+MiscTest,test_exception_message
+DictTest,test_dicts
+ListTest,test_coverage
+ListTest,test_badentry
+ListTest,test_goodentry

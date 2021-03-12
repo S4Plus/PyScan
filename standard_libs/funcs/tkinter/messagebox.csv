@@ -1,0 +1,9 @@
+class,func
+None,showinfo
+None,showwarning
+None,showerror
+None,askquestion
+None,askokcancel
+None,askyesno
+None,askyesnocancel
+None,askretrycancel

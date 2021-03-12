@@ -1,0 +1,9 @@
+class,func
+HelperFunctionTest,test_listmailcapfiles
+HelperFunctionTest,test_readmailcapfile
+HelperFunctionTest,test_lookup
+HelperFunctionTest,test_subst
+GetcapsTest,test_mock_getcaps
+GetcapsTest,test_system_mailcap
+FindmatchTest,test_findmatch
+FindmatchTest,test_test

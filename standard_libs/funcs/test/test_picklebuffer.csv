@@ -1,0 +1,13 @@
+class,func
+PickleBufferTest,check_memoryview
+PickleBufferTest,test_constructor_failure
+PickleBufferTest,test_basics
+PickleBufferTest,test_release
+PickleBufferTest,test_cycle
+PickleBufferTest,test_ndarray_2d
+PickleBufferTest,check_raw
+PickleBufferTest,test_raw
+PickleBufferTest,test_raw_ndarray
+PickleBufferTest,check_raw_non_contiguous
+PickleBufferTest,test_raw_non_contiguous
+PickleBufferTest,test_raw_released

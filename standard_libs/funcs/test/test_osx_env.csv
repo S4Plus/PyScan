@@ -1,0 +1,2 @@
+class,func
+OSXEnvironmentVariableTestCase,test_pythonexecutable_sets_sys_executable

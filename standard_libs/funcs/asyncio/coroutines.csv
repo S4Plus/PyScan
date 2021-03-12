@@ -1,0 +1,11 @@
+class,func
+None,coroutine
+None,iscoroutinefunction
+None,iscoroutine
+CoroWrapper,send
+CoroWrapper,throw
+CoroWrapper,close
+CoroWrapper,gi_frame
+CoroWrapper,gi_running
+CoroWrapper,gi_code
+CoroWrapper,gi_yieldfrom

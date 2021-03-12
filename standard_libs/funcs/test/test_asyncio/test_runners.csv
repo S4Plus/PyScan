@@ -1,0 +1,15 @@
+class,func
+TestPolicy,get_event_loop
+TestPolicy,new_event_loop
+TestPolicy,set_event_loop
+BaseTest,new_loop
+BaseTest,setUp
+BaseTest,tearDown
+RunTests,test_asyncio_run_return
+RunTests,test_asyncio_run_raises
+RunTests,test_asyncio_run_only_coro
+RunTests,test_asyncio_run_debug
+RunTests,test_asyncio_run_from_running_loop
+RunTests,test_asyncio_run_cancels_hanging_tasks
+RunTests,test_asyncio_run_reports_hanging_tasks_errors
+RunTests,test_asyncio_run_closes_gens_after_hanging_tasks_errors

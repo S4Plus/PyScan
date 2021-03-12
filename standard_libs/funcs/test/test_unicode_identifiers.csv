@@ -1,0 +1,4 @@
+class,func
+PEP3131Test,test_valid
+PEP3131Test,test_non_bmp_normalized
+PEP3131Test,test_invalid

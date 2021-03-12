@@ -1,0 +1,6 @@
+class,func
+install_scripts,initialize_options
+install_scripts,finalize_options
+install_scripts,run
+install_scripts,get_inputs
+install_scripts,get_outputs

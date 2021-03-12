@@ -1,0 +1,7 @@
+class,func
+None,test_suite
+BuildCLibTestCase,test_check_library_dist
+BuildCLibTestCase,test_get_source_files
+BuildCLibTestCase,test_build_libraries
+BuildCLibTestCase,test_finalize_options
+BuildCLibTestCase,test_run

@@ -1,0 +1,4 @@
+class,func
+TestEmailAsianCodecs,test_japanese_codecs
+TestEmailAsianCodecs,test_payload_encoding_utf8
+TestEmailAsianCodecs,test_payload_encoding

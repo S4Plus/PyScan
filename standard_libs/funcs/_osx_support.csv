@@ -1,0 +1,5 @@
+class,func
+None,compiler_fixup
+None,customize_config_vars
+None,customize_compiler
+None,get_platform_osx

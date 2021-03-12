@@ -1,0 +1,9 @@
+class,func
+None,copy_strip
+None,show_idlehelp
+HelpParser,indent
+HelpParser,handle_starttag
+HelpParser,handle_endtag
+HelpParser,handle_data
+HelpText,findfont
+HelpFrame,toc_menu

@@ -1,0 +1,7 @@
+class,func
+None,getregentry
+None,rot13
+Codec,encode
+Codec,decode
+IncrementalEncoder,encode
+IncrementalDecoder,decode

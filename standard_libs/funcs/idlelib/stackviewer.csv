@@ -1,0 +1,13 @@
+class,func
+None,StackBrowser
+StackTreeItem,get_stack
+StackTreeItem,get_exception
+StackTreeItem,GetText
+StackTreeItem,GetSubList
+FrameTreeItem,GetText
+FrameTreeItem,GetSubList
+FrameTreeItem,OnDoubleClick
+VariablesTreeItem,GetText
+VariablesTreeItem,GetLabelText
+VariablesTreeItem,IsExpandable
+VariablesTreeItem,GetSubList

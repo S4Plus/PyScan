@@ -1,0 +1,14 @@
+class,func
+None,match
+None,fullmatch
+None,search
+None,sub
+None,subn
+None,split
+None,findall
+None,finditer
+None,compile
+None,purge
+None,template
+None,escape
+Scanner,scan

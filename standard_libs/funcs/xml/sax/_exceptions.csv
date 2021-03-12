@@ -1,0 +1,7 @@
+class,func
+SAXException,getMessage
+SAXException,getException
+SAXParseException,getColumnNumber
+SAXParseException,getLineNumber
+SAXParseException,getPublicId
+SAXParseException,getSystemId

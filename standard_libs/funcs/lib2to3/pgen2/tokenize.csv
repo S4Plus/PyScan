@@ -1,0 +1,13 @@
+class,func
+None,group
+None,any
+None,maybe
+None,printtoken
+None,tokenize
+None,tokenize_loop
+None,detect_encoding
+None,untokenize
+None,generate_tokens
+Untokenizer,add_whitespace
+Untokenizer,untokenize
+Untokenizer,compat

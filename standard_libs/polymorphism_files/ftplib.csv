@@ -1,0 +1,15 @@
+class,func
+FTP,connect
+FTP,sanitize
+FTP,putline
+FTP,putcmd
+FTP,getline
+FTP,getmultiline
+FTP,getresp
+FTP,voidresp
+FTP,sendcmd
+FTP,voidcmd
+FTP,makeport
+FTP,makepasv
+FTP,login
+FTP,retrbinary

@@ -1,0 +1,9 @@
+class,func
+TestRlcompleter,setUp
+TestRlcompleter,test_namespace
+TestRlcompleter,test_global_matches
+TestRlcompleter,test_attr_matches
+TestRlcompleter,test_excessive_getattr
+TestRlcompleter,test_uncreated_attr
+TestRlcompleter,test_complete
+TestRlcompleter,test_duplicate_globals

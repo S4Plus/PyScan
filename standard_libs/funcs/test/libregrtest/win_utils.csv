@@ -1,0 +1,4 @@
+class,func
+WindowsLoadTracker,start
+WindowsLoadTracker,close
+WindowsLoadTracker,getloadavg

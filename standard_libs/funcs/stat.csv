@@ -1,0 +1,14 @@
+class,func
+None,S_IMODE
+None,S_IFMT
+None,S_ISDIR
+None,S_ISCHR
+None,S_ISBLK
+None,S_ISREG
+None,S_ISFIFO
+None,S_ISLNK
+None,S_ISSOCK
+None,S_ISDOOR
+None,S_ISPORT
+None,S_ISWHT
+None,filemode

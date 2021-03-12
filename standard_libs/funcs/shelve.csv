@@ -1,0 +1,11 @@
+class,func
+None,open
+_ClosedDict,closed
+Shelf,get
+Shelf,close
+Shelf,sync
+BsdDbShelf,set_location
+BsdDbShelf,next
+BsdDbShelf,previous
+BsdDbShelf,first
+BsdDbShelf,last

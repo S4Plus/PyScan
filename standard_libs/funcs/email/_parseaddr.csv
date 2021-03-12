@@ -1,0 +1,17 @@
+class,func
+None,parsedate_tz
+None,parsedate
+None,mktime_tz
+None,quote
+AddrlistClass,gotonext
+AddrlistClass,getaddrlist
+AddrlistClass,getaddress
+AddrlistClass,getrouteaddr
+AddrlistClass,getaddrspec
+AddrlistClass,getdomain
+AddrlistClass,getdelimited
+AddrlistClass,getquote
+AddrlistClass,getcomment
+AddrlistClass,getdomainliteral
+AddrlistClass,getatom
+AddrlistClass,getphraselist

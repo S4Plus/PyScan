@@ -1,0 +1,13 @@
+class,func
+None,debug
+None,normalize_output
+None,tearDownModule
+PtyTest,setUp
+PtyTest,handle_sig
+PtyTest,handle_sighup
+PtyTest,test_basic
+PtyTest,test_fork
+SmallPtyTests,setUp
+SmallPtyTests,tearDown
+SmallPtyTests,test__copy_to_each
+SmallPtyTests,test__copy_eof_on_all

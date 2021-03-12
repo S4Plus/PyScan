@@ -1,0 +1,9 @@
+class,func
+TestWhyCryptDidNotImport,test_import_failure_message
+CryptTestCase,test_crypt
+CryptTestCase,test_salt
+CryptTestCase,test_saltedcrypt
+CryptTestCase,test_methods
+CryptTestCase,test_sha2_rounds
+CryptTestCase,test_blowfish_rounds
+CryptTestCase,test_invalid_rounds

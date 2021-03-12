@@ -1,0 +1,16 @@
+class,func
+None,any
+None,make_pat
+None,color_config
+ColorDelegator,init_state
+ColorDelegator,setdelegate
+ColorDelegator,config_colors
+ColorDelegator,LoadTagDefs
+ColorDelegator,insert
+ColorDelegator,delete
+ColorDelegator,notify_range
+ColorDelegator,close
+ColorDelegator,toggle_colorize_event
+ColorDelegator,recolorize
+ColorDelegator,recolorize_main
+ColorDelegator,removecolors

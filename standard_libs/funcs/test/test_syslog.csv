@@ -1,0 +1,8 @@
+class,func
+Test,test_openlog
+Test,test_syslog
+Test,test_closelog
+Test,test_setlogmask
+Test,test_log_mask
+Test,test_log_upto
+Test,test_openlog_noargs

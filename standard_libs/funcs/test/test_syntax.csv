@@ -1,0 +1,16 @@
+class,func
+None,test_main
+SyntaxTestCase,test_assign_call
+SyntaxTestCase,test_assign_del
+SyntaxTestCase,test_global_param_err_first
+SyntaxTestCase,test_nonlocal_param_err_first
+SyntaxTestCase,test_break_outside_loop
+SyntaxTestCase,test_yield_outside_function
+SyntaxTestCase,test_return_outside_function
+SyntaxTestCase,test_continue_outside_loop
+SyntaxTestCase,test_unexpected_indent
+SyntaxTestCase,test_no_indent
+SyntaxTestCase,test_bad_outdent
+SyntaxTestCase,test_kwargs_last
+SyntaxTestCase,test_kwargs_last2
+SyntaxTestCase,test_kwargs_last3

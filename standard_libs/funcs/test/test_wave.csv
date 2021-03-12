@@ -1,0 +1,11 @@
+class,func
+MiscTestCase,test__all__
+WaveLowLevelTest,test_read_no_chunks
+WaveLowLevelTest,test_read_no_riff_chunk
+WaveLowLevelTest,test_read_not_wave
+WaveLowLevelTest,test_read_no_fmt_no_data_chunk
+WaveLowLevelTest,test_read_no_data_chunk
+WaveLowLevelTest,test_read_no_fmt_chunk
+WaveLowLevelTest,test_read_wrong_form
+WaveLowLevelTest,test_read_wrong_number_of_channels
+WaveLowLevelTest,test_read_wrong_sample_width

@@ -1,0 +1,12 @@
+class,func
+AddrlistClass,gotonext
+AddrlistClass,getaddrlist
+AddrlistClass,getrouteaddr
+AddrlistClass,getaddrspec
+AddrlistClass,getdomain
+AddrlistClass,getdelimited
+AddrlistClass,getquote
+AddrlistClass,getcomment
+AddrlistClass,getdomainliteral
+AddrlistClass,getatom
+AddrlistClass,getphraselist

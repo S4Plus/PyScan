@@ -1,0 +1,6 @@
+class,func
+None,load_tests
+None,openfile
+None,parameterize
+TestEmailBase,assertBytesEqual
+TestEmailBase,assertDefectsEqual

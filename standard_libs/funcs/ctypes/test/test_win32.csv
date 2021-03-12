@@ -1,0 +1,9 @@
+class,func
+FunctionCallTestCase,test_SEH
+FunctionCallTestCase,test_noargs
+ReturnStructSizesTestCase,test_sizes
+TestWintypes,test_HWND
+TestWintypes,test_PARAM
+TestWintypes,test_COMError
+TestWinError,test_winerror
+Structures,test_struct_by_value

@@ -1,0 +1,6 @@
+class,func
+ValuesTestCase,test_an_integer
+ValuesTestCase,test_undefined
+PythonValuesTestCase,test_optimizeflag
+PythonValuesTestCase,test_frozentable
+PythonValuesTestCase,test_undefined

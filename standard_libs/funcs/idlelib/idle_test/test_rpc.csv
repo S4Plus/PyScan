@@ -1,0 +1,4 @@
+class,func
+CodePicklerTest,test_pickle_unpickle
+CodePicklerTest,test_code_pickler
+CodePicklerTest,test_dumps

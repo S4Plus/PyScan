@@ -1,0 +1,4 @@
+class,func
+TextTest,setUp
+TextTest,test_debug
+TextTest,test_search

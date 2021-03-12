@@ -1,0 +1,17 @@
+class,func
+None,test_main
+SimplePipeTests,tearDown
+SimplePipeTests,testSimplePipe1
+SimplePipeTests,testSimplePipe2
+SimplePipeTests,testSimplePipe3
+SimplePipeTests,testEmptyPipeline1
+SimplePipeTests,testEmptyPipeline2
+SimplePipeTests,testEmptyPipeline3
+SimplePipeTests,testRepr
+SimplePipeTests,testSetDebug
+SimplePipeTests,testReadOpenSink
+SimplePipeTests,testWriteOpenSource
+SimplePipeTests,testBadAppendOptions
+SimplePipeTests,testBadPrependOptions
+SimplePipeTests,testBadOpenMode
+SimplePipeTests,testClone

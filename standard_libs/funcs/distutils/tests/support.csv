@@ -1,0 +1,15 @@
+class,func
+None,copy_xxmodule_c
+None,fixup_build_ext
+LoggingSilencer,setUp
+LoggingSilencer,tearDown
+LoggingSilencer,get_logs
+LoggingSilencer,clear_logs
+TempdirManager,setUp
+TempdirManager,tearDown
+TempdirManager,mkdtemp
+TempdirManager,write_file
+TempdirManager,create_dist
+DummyCommand,ensure_finalized
+EnvironGuard,setUp
+EnvironGuard,tearDown

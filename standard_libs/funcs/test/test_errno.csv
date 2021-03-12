@@ -1,0 +1,4 @@
+class,func
+ErrnoAttributeTests,test_for_improper_attributes
+ErrnoAttributeTests,test_using_errorcode
+ErrorcodeTests,test_attributes_in_errorcode

@@ -1,0 +1,4 @@
+class,func
+Test,setUpClass
+Test,tearDownClass
+Test,test_init

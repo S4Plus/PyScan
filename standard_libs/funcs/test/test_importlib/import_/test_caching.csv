@@ -1,0 +1,7 @@
+class,func
+UseCache,test_using_cache
+UseCache,test_None_in_cache
+ImportlibUseCache,create_mock
+ImportlibUseCache,test_using_cache_after_loader
+ImportlibUseCache,test_using_cache_for_assigning_to_attribute
+ImportlibUseCache,test_using_cache_for_fromlist

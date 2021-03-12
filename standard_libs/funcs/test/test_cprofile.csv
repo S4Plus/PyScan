@@ -1,0 +1,7 @@
+class,func
+None,main
+CProfileTest,get_expected_output
+CProfileTest,test_bad_counter_during_dealloc
+CProfileTest,test_profile_enable_disable
+CProfileTest,test_profile_as_context_manager
+TestCommandLine,test_sort

@@ -1,0 +1,8 @@
+class,func
+None,open_binary
+None,open_text
+None,read_binary
+None,read_text
+None,path
+None,is_resource
+None,contents

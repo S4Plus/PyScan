@@ -1,0 +1,8 @@
+class,func
+bdist_wininst,initialize_options
+bdist_wininst,finalize_options
+bdist_wininst,run
+bdist_wininst,get_inidata
+bdist_wininst,create_exe
+bdist_wininst,get_installer_filename
+bdist_wininst,get_exe_bytes

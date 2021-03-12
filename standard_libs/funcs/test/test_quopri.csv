@@ -1,0 +1,13 @@
+class,func
+None,withpythonimplementation
+QuopriTestCase,test_encodestring
+QuopriTestCase,test_decodestring
+QuopriTestCase,test_decodestring_double_equals
+QuopriTestCase,test_idempotent_string
+QuopriTestCase,test_encode
+QuopriTestCase,test_decode
+QuopriTestCase,test_embedded_ws
+QuopriTestCase,test_encode_header
+QuopriTestCase,test_decode_header
+QuopriTestCase,test_scriptencode
+QuopriTestCase,test_scriptdecode

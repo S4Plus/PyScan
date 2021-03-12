@@ -1,0 +1,7 @@
+class,func
+UnicodeTestCase,test_wcslen
+UnicodeTestCase,test_buffers
+StringTestCase,setUp
+StringTestCase,tearDown
+StringTestCase,test_func
+StringTestCase,test_buffers

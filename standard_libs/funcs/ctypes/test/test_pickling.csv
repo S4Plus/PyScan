@@ -1,0 +1,7 @@
+class,func
+PickleTest,dumps
+PickleTest,loads
+PickleTest,test_simple
+PickleTest,test_struct
+PickleTest,test_unpickable
+PickleTest,test_wchar

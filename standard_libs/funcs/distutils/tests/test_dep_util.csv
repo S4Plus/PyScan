@@ -1,0 +1,5 @@
+class,func
+None,test_suite
+DepUtilTestCase,test_newer
+DepUtilTestCase,test_newer_pairwise
+DepUtilTestCase,test_newer_group

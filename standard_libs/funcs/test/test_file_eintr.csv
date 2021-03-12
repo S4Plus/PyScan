@@ -1,0 +1,11 @@
+class,func
+TestFileIOSignalInterrupt,setUp
+TestFileIOSignalInterrupt,tearDown
+TestFileIOSignalInterrupt,fail_with_process_info
+TestFileIOSignalInterrupt,test_readline
+TestFileIOSignalInterrupt,test_readlines
+TestFileIOSignalInterrupt,test_readall
+TestBufferedIOSignalInterrupt,test_readall
+TestTextIOSignalInterrupt,test_readline
+TestTextIOSignalInterrupt,test_readlines
+TestTextIOSignalInterrupt,test_readall

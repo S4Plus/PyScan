@@ -1,0 +1,6 @@
+class,func
+None,get_window_geometry
+None,set_window_geometry
+ZoomHeight,zoom_height_event
+ZoomHeight,zoom_height
+ZoomHeight,get_max_height_and_y_coord

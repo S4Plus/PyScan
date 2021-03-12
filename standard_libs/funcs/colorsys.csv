@@ -1,0 +1,7 @@
+class,func
+None,rgb_to_yiq
+None,yiq_to_rgb
+None,rgb_to_hls
+None,hls_to_rgb
+None,rgb_to_hsv
+None,hsv_to_rgb

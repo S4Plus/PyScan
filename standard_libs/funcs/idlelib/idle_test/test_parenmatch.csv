@@ -1,0 +1,8 @@
+class,func
+ParenMatchTest,setUpClass
+ParenMatchTest,tearDownClass
+ParenMatchTest,tearDown
+ParenMatchTest,get_parenmatch
+ParenMatchTest,test_paren_styles
+ParenMatchTest,test_paren_corner
+ParenMatchTest,test_handle_restore_timer

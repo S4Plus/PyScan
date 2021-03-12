@@ -1,0 +1,17 @@
+class,func
+DictVersionTests,setUp
+DictVersionTests,check_version_unique
+DictVersionTests,check_version_changed
+DictVersionTests,check_version_dont_change
+DictVersionTests,new_dict
+DictVersionTests,test_constructor
+DictVersionTests,test_copy
+DictVersionTests,test_setitem
+DictVersionTests,test_setitem_same_value
+DictVersionTests,test_setitem_equal
+DictVersionTests,test_setdefault
+DictVersionTests,test_delitem
+DictVersionTests,test_pop
+DictVersionTests,test_popitem
+DictVersionTests,test_update
+DictVersionTests,test_clear

@@ -1,0 +1,4 @@
+class,func
+None,copy_file
+None,move_file
+None,write_file

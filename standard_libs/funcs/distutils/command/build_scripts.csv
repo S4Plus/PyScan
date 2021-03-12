@@ -1,0 +1,7 @@
+class,func
+build_scripts,initialize_options
+build_scripts,finalize_options
+build_scripts,get_source_files
+build_scripts,run
+build_scripts,copy_scripts
+build_scripts_2to3,copy_scripts

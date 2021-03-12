@@ -1,0 +1,14 @@
+class,func
+None,test_suite
+UtilTestCase,setUp
+UtilTestCase,tearDown
+UtilTestCase,test_get_platform
+UtilTestCase,test_convert_path
+UtilTestCase,test_change_root
+UtilTestCase,test_check_environ
+UtilTestCase,test_check_environ_getpwuid
+UtilTestCase,test_split_quoted
+UtilTestCase,test_strtobool
+UtilTestCase,test_rfc822_escape
+UtilTestCase,test_dont_write_bytecode
+UtilTestCase,test_grok_environment_error

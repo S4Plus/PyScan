@@ -1,0 +1,10 @@
+class,func
+None,source_hash
+None,resolve_name
+None,find_spec
+None,set_package
+None,set_loader
+None,module_for_loader
+LazyLoader,factory
+LazyLoader,create_module
+LazyLoader,exec_module

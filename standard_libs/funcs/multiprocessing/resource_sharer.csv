@@ -1,0 +1,6 @@
+class,func
+DupSocket,detach
+DupFd,detach
+_ResourceSharer,register
+_ResourceSharer,get_connection
+_ResourceSharer,stop

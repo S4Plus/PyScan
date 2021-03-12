@@ -1,0 +1,9 @@
+class,func
+None,test_suite
+InstallTestCase,test_home_installation_scheme
+InstallTestCase,test_user_site
+InstallTestCase,test_handle_extra_path
+InstallTestCase,test_finalize_options
+InstallTestCase,test_record
+InstallTestCase,test_record_extensions
+InstallTestCase,test_debug_mode

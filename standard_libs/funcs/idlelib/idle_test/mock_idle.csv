@@ -1,0 +1,4 @@
+class,func
+Editor,get_selection_indices
+UndoDelegator,undo_block_start
+UndoDelegator,undo_block_stop

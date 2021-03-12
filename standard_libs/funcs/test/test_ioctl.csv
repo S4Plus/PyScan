@@ -1,0 +1,6 @@
+class,func
+IoctlTests,test_ioctl
+IoctlTests,test_ioctl_mutate
+IoctlTests,test_ioctl_mutate_1024
+IoctlTests,test_ioctl_mutate_2048
+IoctlTests,test_ioctl_signed_unsigned_code_param

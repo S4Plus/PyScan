@@ -1,0 +1,9 @@
+class,func
+CommonBinaryTests,execute
+CommonTextTests,execute
+ReadTests,test_read_binary
+ReadTests,test_read_text_default_encoding
+ReadTests,test_read_text_given_encoding
+ReadTests,test_read_text_with_errors
+ReadZipTests,test_read_submodule_resource
+ReadZipTests,test_read_submodule_resource_by_name

@@ -1,0 +1,4 @@
+class,func
+None,dedent
+TestInversion,msg_as_input
+TestInversion,payload_as_body

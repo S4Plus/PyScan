@@ -1,0 +1,16 @@
+class,func
+None,test_suite
+FakeOpener,open
+FakeOpener,read
+FakeOpener,getheader
+RegisterTestCase,setUp
+RegisterTestCase,tearDown
+RegisterTestCase,test_create_pypirc
+RegisterTestCase,test_password_not_in_file
+RegisterTestCase,test_registering
+RegisterTestCase,test_password_reset
+RegisterTestCase,test_strict
+RegisterTestCase,test_register_invalid_long_description
+RegisterTestCase,test_check_metadata_deprecated
+RegisterTestCase,test_list_classifiers
+RegisterTestCase,test_show_response

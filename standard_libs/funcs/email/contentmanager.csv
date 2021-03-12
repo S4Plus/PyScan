@@ -1,0 +1,12 @@
+class,func
+None,get_text_content
+None,get_non_text_content
+None,get_message_content
+None,get_and_fixup_unknown_message_content
+None,set_text_content
+None,set_message_content
+None,set_bytes_content
+ContentManager,add_get_handler
+ContentManager,get_content
+ContentManager,add_set_handler
+ContentManager,set_content

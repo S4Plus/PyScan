@@ -1,0 +1,10 @@
+class,func
+None,test_main
+UnicodeFileTests,setUp
+UnicodeFileTests,norm
+UnicodeFileTests,test_failures
+UnicodeFileTests,test_open
+UnicodeFileTests,test_normalize
+UnicodeFileTests,test_listdir
+UnicodeFileTests,test_rename
+UnicodeFileTests,test_directory

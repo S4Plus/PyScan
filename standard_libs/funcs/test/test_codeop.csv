@@ -1,0 +1,9 @@
+class,func
+None,unify_callables
+CodeopTests,assertValid
+CodeopTests,assertIncomplete
+CodeopTests,assertInvalid
+CodeopTests,test_valid
+CodeopTests,test_incomplete
+CodeopTests,test_invalid
+CodeopTests,test_filename

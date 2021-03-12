@@ -1,0 +1,12 @@
+class,func
+BadSpecFinderLoader,find_spec
+BadSpecFinderLoader,create_module
+BadSpecFinderLoader,exec_module
+BadLoaderFinder,find_module
+BadLoaderFinder,load_module
+APITest,test_raises_ModuleNotFoundError
+APITest,test_name_requires_rparition
+APITest,test_negative_level
+APITest,test_nonexistent_fromlist_entry
+APITest,test_fromlist_load_error_propagates
+APITest,test_blocked_fromlist

@@ -1,0 +1,17 @@
+class,func
+LiveDialogTest,setUpClass
+LiveDialogTest,tearDownClass
+LiveDialogTest,test_build_bits
+LiveDialogTest,test_dialog_title
+LiveDialogTest,test_dialog_logo
+LiveDialogTest,test_printer_buttons
+LiveDialogTest,test_file_buttons
+DefaultTitleTest,setUpClass
+DefaultTitleTest,tearDownClass
+DefaultTitleTest,test_dialog_title
+CloseTest,setUpClass
+CloseTest,tearDownClass
+CloseTest,test_close
+DisplayFileTest,setUpClass
+DisplayFileTest,tearDownClass
+DisplayFileTest,test_file_display

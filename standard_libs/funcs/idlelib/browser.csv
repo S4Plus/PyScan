@@ -1,0 +1,17 @@
+class,func
+None,transform_children
+ModuleBrowser,close
+ModuleBrowser,init
+ModuleBrowser,settitle
+ModuleBrowser,rootnode
+ModuleBrowserTreeItem,GetText
+ModuleBrowserTreeItem,GetIconName
+ModuleBrowserTreeItem,GetSubList
+ModuleBrowserTreeItem,OnDoubleClick
+ModuleBrowserTreeItem,IsExpandable
+ModuleBrowserTreeItem,listchildren
+ChildBrowserTreeItem,GetText
+ChildBrowserTreeItem,GetIconName
+ChildBrowserTreeItem,IsExpandable
+ChildBrowserTreeItem,GetSubList
+ChildBrowserTreeItem,OnDoubleClick

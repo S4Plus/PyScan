@@ -1,0 +1,14 @@
+class,func
+None,test_main
+FileCompareTestCase,setUp
+FileCompareTestCase,tearDown
+FileCompareTestCase,test_matching
+FileCompareTestCase,test_different
+FileCompareTestCase,test_cache_clear
+DirCompareTestCase,setUp
+DirCompareTestCase,tearDown
+DirCompareTestCase,test_default_ignores
+DirCompareTestCase,test_cmpfiles
+DirCompareTestCase,test_dircmp
+DirCompareTestCase,test_report_partial_closure
+DirCompareTestCase,test_report_full_closure

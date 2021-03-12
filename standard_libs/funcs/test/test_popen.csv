@@ -1,0 +1,6 @@
+class,func
+PopenTest,test_popen
+PopenTest,test_return_code
+PopenTest,test_contextmanager
+PopenTest,test_iterating
+PopenTest,test_keywords

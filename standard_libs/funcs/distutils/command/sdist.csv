@@ -1,0 +1,16 @@
+class,func
+None,show_formats
+sdist,checking_metadata
+sdist,initialize_options
+sdist,finalize_options
+sdist,run
+sdist,check_metadata
+sdist,get_file_list
+sdist,add_defaults
+sdist,read_template
+sdist,prune_file_list
+sdist,write_manifest
+sdist,read_manifest
+sdist,make_release_tree
+sdist,make_distribution
+sdist,get_archive_files

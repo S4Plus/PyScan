@@ -1,0 +1,10 @@
+class,func
+None,needsquoting
+None,quote
+None,encode
+None,encodestring
+None,decode
+None,decodestring
+None,ishex
+None,unhex
+None,main

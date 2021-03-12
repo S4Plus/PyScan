@@ -1,0 +1,9 @@
+class,func
+InitTktypeTest,setUpClass
+InitTktypeTest,tearDownClass
+InitTktypeTest,test_init_sets_tktype
+IsTypeTkTest,test_is_calls_init
+IsTypeTkTest,test_isfuncs
+SetupTest,setUpClass
+SetupTest,tearDownClass
+SetupTest,test_setupapp

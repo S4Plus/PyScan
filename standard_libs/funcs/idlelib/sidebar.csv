@@ -1,0 +1,16 @@
+class,func
+None,get_end_linenumber
+None,get_widget_padding
+BaseSideBar,update_font
+BaseSideBar,update_colors
+BaseSideBar,show_sidebar
+BaseSideBar,hide_sidebar
+BaseSideBar,redirect_yscroll_event
+BaseSideBar,redirect_focusin_event
+BaseSideBar,redirect_mousebutton_event
+BaseSideBar,redirect_mousewheel_event
+EndLineDelegator,insert
+EndLineDelegator,delete
+LineNumbers,bind_events
+LineNumbers,update_colors
+LineNumbers,update_sidebar_text

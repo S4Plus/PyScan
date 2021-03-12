@@ -1,0 +1,12 @@
+class,func
+None,exists
+None,isfile
+None,isdir
+None,getsize
+None,getmtime
+None,getatime
+None,getctime
+None,commonprefix
+None,samestat
+None,samefile
+None,sameopenfile

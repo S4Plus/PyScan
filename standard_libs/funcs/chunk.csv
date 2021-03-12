@@ -1,0 +1,9 @@
+class,func
+Chunk,getname
+Chunk,getsize
+Chunk,close
+Chunk,isatty
+Chunk,seek
+Chunk,tell
+Chunk,read
+Chunk,skip

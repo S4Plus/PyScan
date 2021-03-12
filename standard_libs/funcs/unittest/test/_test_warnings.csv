@@ -1,0 +1,9 @@
+class,func
+None,warnfun
+TestWarnings,test_assert
+TestWarnings,test_fail
+TestWarnings,test_other_unittest
+TestWarnings,test_deprecation
+TestWarnings,test_import
+TestWarnings,test_warning
+TestWarnings,test_function

@@ -1,0 +1,5 @@
+class,func
+TestEncodeBasestringAscii,test_encode_basestring_ascii
+TestEncodeBasestringAscii,test_ordered_dict
+TestEncodeBasestringAscii,test_sorted_dict
+TestCEncodeBasestringAscii,test_overflow

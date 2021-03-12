@@ -1,0 +1,17 @@
+class,func
+None,randomrow
+None,computerzug
+None,randommove
+None,main
+NimModel,setup
+NimModel,move
+NimModel,game_over
+NimModel,notify_move
+Stick,coords
+Stick,makemove
+NimView,display
+NimView,setup
+NimView,notify_move
+NimView,notify_over
+NimView,clear
+NimController,notify_move

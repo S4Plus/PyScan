@@ -1,0 +1,7 @@
+class,func
+None,test_main
+OptimizedPickleTests,dumps
+OptimizedPickleTests,loads
+OptimizedPickleTests,test_optimize_long_binget
+OptimizedPickleTests,test_optimize_binput_and_memoize
+MiscTestCase,test__all__
