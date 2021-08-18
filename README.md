@@ -10,12 +10,13 @@ If you use PyScan in your research, please cite our paper as follows:
 @inproceedings{ peng2021pyscan,
     title	= {An Empirical Study for Common Language Features Used in Python Projects},
     author	= {Peng, Yun and Zhang, Yu and Hu, Mingzhe},
-    booktitle={Proceedings of 2021 28th IEEE International Conference on Software Analysis, Evolution and Reengineering},
-	month	= {March},
+    booktitle	= {2021 28th IEEE International Conference on Software Analysis, Evolution and Reengineering},
+    month	= {March},
     year	={2021},
     organization={IEEE},
-    doi		= {},
-    url		= {},
+    pages	={24-35},
+    doi		= {10.1109/SANER50967.2021.00012},
+    url		= {https://ieeexplore.ieee.org/abstract/document/9425916},
 }
 ```
 
