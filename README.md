@@ -1,8 +1,8 @@
 # PyScan
 
-This project is a Python language feature scanning tool proposed in paper: **An Empirical Study For Common Language Features Used in Python Projects**. This tool is developed by [Yun Peng](https://www.yunpeng.work) under the guidance of Prof. [Yu Zhang](http://staff.ustc.edu.cn/~yuzhang) in the [S4Plus](https://s4plus.ustc.edu.cn/) team at [USTC](https://www.ustc.edu.cn/).
+This project is a Python language feature scanning tool proposed in paper: **An Empirical Study For Common Language Features Used in Python Projects** published in [IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2021)](https://saner2021.shidler.hawaii.edu/). This tool is developed by [Yun Peng](https://www.yunpeng.work) under the guidance of Prof. [Yu Zhang](http://staff.ustc.edu.cn/~yuzhang) in the [S4Plus](https://s4plus.ustc.edu.cn/) team at [USTC](https://www.ustc.edu.cn/).
 
-This tool aims to scan the occurrences of 22 Python language features for a single Python source code file or a Python project.
+This tool aims to scan the occurrences of 22 Python language features for a single Python source code file or a Python project. Please check our [paper](https://ieeexplore.ieee.org/abstract/document/9425916) and presentation viedo at [bilibili](https://www.bilibili.com/video/BV1vV411Y7MF/) and [youtube](https://www.youtube.com/watch?v=YB--HMjwnMk) for further description. You can also read the [introductory article in Chineses](https://mp.weixin.qq.com/s/-ChclnELCqcr81vG_KmTpw) about this paper.
 
 If you use PyScan in your research, please cite our paper as follows:
 
@@ -22,7 +22,7 @@ If you use PyScan in your research, please cite our paper as follows:
 
 ## Language Feature
 
-PyScan scans the following language features, for the explanations and definitions of each language feature, please check our paper.
+PyScan scans the following language features, for the explanations and definitions of each language feature, please check our [paper](https://ieeexplore.ieee.org/abstract/document/9425916).
 
 |          Category           |        Language Feature        |
 | :-------------------------: | :----------------------------: |
